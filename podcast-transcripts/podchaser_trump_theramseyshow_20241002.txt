@@ -1,0 +1,3866 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Arial-BoldMT;\f1\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;\red252\green252\blue252;}
+{\*\expandedcolortbl;;\cssrgb\c13333\c13333\c13333;\cssrgb\c99216\c99216\c99216;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs21 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 0:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 This inflation thing is a big deal. So in the first\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 90 days, the strokes that you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 make to change the economy when you're elected,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that's pretty dramatic. I believe I'll be able\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to get energy down to 50 percent\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of what it is right now, within\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a period of less than a year. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know small businesses are where jobs come from.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 When you guys in government can take your\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 hands off of small business, we're able to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 employ people and change things. So how can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you help small businesses? You have to love\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what you do. If you don't love what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you do, it's not going to work. It's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the largest tax cuts in the history of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 our country. That's why we became so successful. You\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 think we can do that again? Yeah, I think\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we can go lower. If I don't turn my\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 head at the exact 90 degree\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 angle, if I was a little off, I'm not\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 doing this very nice interview with you. I hear\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you're going back to Butler and finish the speech.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I am. I'm going to say... Hey,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 guys, Dave Ramsey here with The Ramsey Show.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 If you don't know what The Ramsey Show is, it's a show\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about life, about money, about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 relationships. It's not a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 show about politics. We specifically over the years\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have tried to remind you over and over\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 again that what happens in your\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 house is more important for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your success than what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 happens in the White House. We also\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 realize that this election is a really\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 important time right now. The people are\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 really looking at what's happening.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 There's a real divisiveness in the air,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a lot of anger in the air.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So our team reached out to Vice\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 President Harris' team about the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 opportunity to sit down with her for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a long-form interview and reached out to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 President Trump's team about the opportunity to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 sit down for a long-form interview with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 him. And to talk\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about ideas, talk about what's going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to happen, not what has happened and not about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 personalities and not about name calling, because both sides\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are pretty good at all of that stuff. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the fact that I sit down with either one\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of these candidates is going to piss some of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you off. Frankly, I'm perfectly fine\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with that. It's something I wanted to do, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I felt like it was something we needed to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 talk about. So I find myself sitting here in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Trump Tower, getting ready\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to interview President Trump for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a few minutes. I think you're gonna find this really\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 interesting. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 President Trump, thanks for taking time to sit down with us.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Honored to be with you. Good to hang out with you.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 As you know, we do a show called the Ramsey Show\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and talk to regular\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 folks every day, calling in. Most\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of the time with financial trouble, sometimes with financial\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 victories, stuff we've taught them to do, the basic\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 grandma's common sense stuff. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that audience that's gonna be watching this is, they're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not concerned with a lot\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of things, but they are concerned with $8 eggs, $5\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 gas, 7% of the trades, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a house they can't afford with wages not going up\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 as fast as house prices. This inflation\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 thing's a big deal. So in the first 90 days,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the strokes that you make to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 change the economy when you're elected are a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 big deal. What's the first things you're gonna do on\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that? Well, in terms of inflation,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you're right. And it's almost inflation over\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the economy, if you wanna really know,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 because people are getting wiped out like\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 never before. I think it's the highest inflation we've\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 ever had. They say it's the highest in 48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 years. I think it's the highest ever.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 There's never been any mess like this, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's because of what they did with energy.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Also, then they topped it with spending with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 money that trillions and trillions of dollars that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they didn't need that's being just wasted. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the first thing you have to do is get the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 energy down. If you get the energy down, other things\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are gonna follow. You wanna get the interest rates down\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 too. And interestingly, even interest\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 rates are gonna follow energy because it's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 gonna take that burden off\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the shoulders of the economy and off\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the shoulders of inflation itself. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we are going to drill at a level\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that you haven't seen since, let's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 say four or five years ago, but\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 even more so. We would have been so\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 dominant by this point. If you remember, when\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you go back to the beginning of this,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 really failed administration that went right now. What\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they did was they turned\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 off the energy. They turned off everything that I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 had to do. So you turned back on the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 keystone. You're gonna turn back on the drill baby\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 drill line and the, in your acceptance speech at\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the convention. It says it all. You\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know, I'd like to use another line, but there's no line\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that's better. And we're gonna drill baby\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 drill. But the fact that they turned it off\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and then the energy,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you look back at the very initial\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 period of their administration, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 numbers started going through the roof, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 energy numbers. Inflation was closed.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And then they went back to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Trump where they're trying to equal it.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And it kept it bad as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 opposed to horrific. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's been really bad. And the energy has been\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 very expensive, but nothing like it could have been.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So they went back to Trump type things. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we would have been now three to four\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 times more. We would have been dominating the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 entire world on energy. We have more than\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 anybody else, as you've heard me\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 say, but as you also know, I call it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 liquid gold. We have more liquid gold under our\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 feet than anybody else. Actually, by\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 far, we would have dominated. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 would have been taking care of Europe. We would\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have been taking care of Asia. We would have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 been taking care, you know, Anwar in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Alaska is the biggest find anywhere in the world.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 It could be as big as Saudi Arabia. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I got it. Ronald Reagan couldn't get it. Nobody\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 could get it. I got it. It was done,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 ready to start. And when\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 these people came in, they turned it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 off. They terminated it. Nobody\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 could believe it. I don't know if people\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 realize that, you know, 10 to 15% of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the entire economy is energy. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it weaves its tentacles through everything\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 else. So $5 gas affects\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the bread truck who's delivering the bread. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that affects the cost of the bread then.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And so getting that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 plentiful changes everything. So I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have a little thing that I've been\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 saying lately because I think it's easily\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 achievable. You know, we pay\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 very high energy costs and especially now, but we're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 paying very, very high. I believe.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be able to get energy down to 50%, 50,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 50% of what it is right now within a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 period of less\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 than a year. Wow. That's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 pretty good. It's going to happen fast, okay? It's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 going to happen fast. Now, what are you going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to do to do that? What causes that? They're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 going to drill. They're going to frack. They're going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to do things that they have tremendous addition. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 taking the regulations off. Taking the regulations\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 off. Yeah, yeah. Oh, we have to. They put\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 them back on. They put regulations back on. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 areas that have no environmental real meaning,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they don't let them drill. They're taking\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 leases away, government leases that you're hearing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about. I think\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we can get energy costs down to half of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what they're... If we do that... That's pretty dramatic.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 If everything... All of those inflated prices are going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to come down with it. I think the other\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 piece of that, and I know he was part\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of your administration, and you and I were talking\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 before we turned the cameras on that we have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a mutual friend and art laugher. Oh, he's great.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And I know he helped a little bit with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the tax code in the last administration. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 personally have experienced the Laffer curve that lower\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 taxes causes increased revenues to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the federal government because it heats\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 up the economy. And I'm\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a small business guy. When you lower my taxes, it doesn't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 mean I put it in my pocket. It means I hire\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people. And so talk\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about lowering taxes in the first year of your\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 administration. Yeah, you probably saw my plan, and I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 think we have something really good. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was yesterday in North Carolina, which is great.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 That was the furniture capital of the world.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And China then went in and did a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 number and took so much of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that business. Most of that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 business, the talent... I used to go there\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to buy furniture for hotels and things. Hickory,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 North Carolina. Yep. In Hickory.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I was in Hickory yesterday and made a speech. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we're going to bring it all back. What we're doing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is there's sort of a two-phase. Number one, I took\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 taxes from 39% to 21%. You\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know that better than anyone. It's the largest\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 tax cuts in the history of our country. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that was great. We became so successful. You know, it's funny.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 You think we can do that again? Yeah, I think we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 can go lower. And I'll tell you what I'm doing. I'm\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 bringing it from 21 to 15, but\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you have to manufacture your product\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 here, and then you pay 15%. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 then I'm gonna put tariffs on countries\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so they can't come in and steal our business,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so that our businesses now can be competitive.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Not that, I mean, China came in and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 just stole all our furniture,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and many other industries, by the way,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 including steel. And I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 save steel by putting 50% and 100% tariffs on\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 all of the steel that they were dumping. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we're gonna do, so in other words, this is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a dream for you then, we're bringing the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 tax rate from 21. Remember, it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was 39, and it was really 50 of you, ad,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 state, and local, and all of the other things.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So we're gonna bring it down from 21 to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 15. I got it down\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to 21, which everyone said was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 impossible, and got it approved by Congress. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's there. And we're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 gonna bring that down to 15, but you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have to make your product in the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 United States. And we do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 see federal revenues go up when the taxes\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 go down, because the economy goes. You saw\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it with me. So we saw it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with Reagan, too. You saw it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with Reagan. So at 39%, and then down to 21%, you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 would think we'd do half, or you'd do much\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 less. In the first full year, we did much\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 more revenue in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the United States, so we did it 39. In\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 other words, we took in much more\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 money. Which is how you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 solve the deficit. I mean, Bill Clinton almost balanced the budget,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 but it was actually a principle. Yeah, that's true, that's true,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 he did. And cost cutting. We have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 plenty of cost cutting to do, too, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that's okay. In fact, I'm gonna ask Elon,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 who's a great guy, but he's a pretty good cost\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 guy. That's a great interview. Yeah, oh, that was a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 great interview. That was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 some interview. We did pretty big numbers. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 hear we did like 900 million people or\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 something. That was a pretty good, but he's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a great guy, and he gave me a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 full endorsement and all of that, but he's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 got a good sense on that. that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 there's tremendous cost cutting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that we can do and affect\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 nothing. It just, we're not gonna affect\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 anybody. We're not gonna hurt anybody. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have to save Social Security and keep it good\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and solid. I don't wanna be raising ages or\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 anything. I don't wanna do, they're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 putting migrants into Social Security. When\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they get finished, they are,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if she got elected, this country is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 going bust. If she got\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 elected, we're going back to 1929 depression. It\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 would be a disaster for Medicare, Social Security.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 They're allowing millions and millions\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of people to come in. You can't use\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 these schools anymore. The quality of life in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this country has gone so bad because of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what they've done. One of the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 things that our viewers know about us, we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 work with tens of thousands of small business\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people. And so coaching\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 them, 54% of the gross domestic\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 product is businesses 500 people\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 or less. Almost everyone in America, over\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 half, almost 60% of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people work for a small\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 business. And I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know small businesses are where jobs come from,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not from government. So politicians don't create jobs,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 small businesses do. The small businesses do. Kind\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of businesses, people like me often when the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 politicians say they're making, one's making the jobs,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we're the ones making the jobs. But when\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you guys in government can take your hands\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 off of small business and allow us to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do our thing, we're able to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 employ people and change things. So how can you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 help small businesses? Well, the best way is just\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 letting them do what they have to do, but\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we still have to give them a playing field.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 If we don't give them a level playing field,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they will die. And that's what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 happened before. That's why China came in, that's why\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 all the, they came in and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they came in at a level like\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 nobody's ever seen and we did nothing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about it. So the word tariff to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 me is a very beautiful word because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it can save our country, truly. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 yet, I think because of graft, because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of a lot of consulting payments and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 other things that given by other countries.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We have so much fighting with politicians\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on using it. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 saved our steel industries by putting tariffs\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on steel that China came in and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 dumped. And you know what they do,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they dump and dump and dump. Everybody goes out\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of business, then they buy those businesses very cheap,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and then they raise the prices to higher than\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they ever were. That's one of the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 many benefits that they have if they want to do it.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 But by putting tariffs on, as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 an example, in the furniture business\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in North Carolina, it was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so vibrant and they stole our business, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they charged us, if you wanted to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 build a furniture place, if you want to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 sell your furniture in China, they won't take it. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you want to build a plant in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 China, to make furniture in China, using\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 their labor, they open\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it, we're doing the same thing. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a lot of people, oh, well, we don't want\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to have tariffs. The country\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was at the richest point in its\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 history in the 1890s, it was all\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 tariffs. If you looked at William McKinley\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 as an example, he was a big\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 tariff president. They had committees that were\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 put in charge of what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to do with the money. We were taking in so\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 much money. And McKinley would say,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 why should we let other people come in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and steal our factories and steal our workers\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and steal our jobs? And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 why shouldn't we benefit? And he tariffed the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 other countries. And we made\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so much, and then they went to the income tax\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 system later on. But they would actually have, they had\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a blue ribbon committee. Our\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 country was so rich, they didn't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know what to do with the money. And this\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 blue ribbon committee was set up to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 determine how can we spend all of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this money, and they took it in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 through tariffs. But we can turn\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 our country around, make it strong,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and then guard it with tariffs. Yeah, let's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 change gears for a second. My wife Sharon\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and I were in Scotland two weeks\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 ago, and we played a bunch\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of different courses there, including Turnberry. Good. Arguably,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 according to the golf guys I was playing with, this is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the nicest course in the UK right now. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 certainly, the halfway house, the lighthouse\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 out there. Turnberry's amazing, isn't it? But what I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 came away with, not only the golf course, great,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 just to give you a huge compliment. You know\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that, but the staff and the team,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the excellence in the hotel, in the restaurants,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in the golf shop, everybody we dealt with,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 talk about what it's like to work for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Donald Trump. How do you hire leaders and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 put people in place to do that? Because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I know you're obviously not there personally managing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that, but you put a culture\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in place in your organization, and that applies\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to the administration as well. Hiring people that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are quality leaders. Well, my son Eric is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 very much involved, and he runs a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 lot of it, and Don helps out a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 lot. And Ivanka,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to a lesser extent, she's a great\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 mother and everything. She did a fantastic\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 job in the administration. All she wanted\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to do was get people jobs, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 she'd go around and see Exxon\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and see Walmart. She\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 wanted jobs for people. It's really pretty amazing.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 She could have had a very glamorous job,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and she would have done well. But Eric's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 done a great job, and I did a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 similar type of job when I was doing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it. Now I'm doing a thing called running\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for president, so I don't get, but we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 rebuilt Turnberry. Turnberry was considered one of the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 greatest courses in the world, because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the land is so incredible, right? With the ocean\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and you know that ninth hole over there, you're hitting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 over the ocean. How good a golf are you? Eh,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 13. All right, that's a great-\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I've only been playing five years, I'm just learning.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Oh, really? I enjoyed you and Bryce since 50. Wasn't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that great? That was fun, that was a great video. That\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 one did well in terms of the ratings. It did, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 he can swing a club. He can swing, and he's a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 great guy. And he is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 very long, very straight, and you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know what, he's a great putter. One\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of the best putters. He's one of the best putters in the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 world. That was quite an exciting thing. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 got it down to 50. You actually\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 pulled one hole off, I watched it. Yeah, I rode\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on you, you carried one even more than one hole,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you wanna. But we did\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 well, we did well. Yeah,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you did, it was very fun. So, what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 leadership qualities? on Eric's hiring that you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 teach him to look for? Well, I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 like the recommendation business, but what I like\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 best is taking people that are in the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 company and moving them up. You\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 take a waitress as an example, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 she becomes the head of the restaurant.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 You say, because you know if certain\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people are good, and when\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they work for you already, that's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 better than recommendation. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you don't do that, or if you can't do that for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 some reason, you really need\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 strong references, and then\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they have to enjoy their job. If they don't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 enjoy their job, they're not gonna be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 very good at it. So I ended up at a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 table, Ronnie Barrett, yeah,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Barrett, a very 50 cal, I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was a friend of ours, and I ended up at a table with him\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 at an NRA convention with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Eric and Donald. Got to spend some time with both of them,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and you're right, they're impressive. How do you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 raise great kids? What'd you do? So- The\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 grandkids are turned out. The granddaughters killed it.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We have, oh, how good was she? At\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the convention, wow. She's a great\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 golfer, by the way. She's a- Great\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 speaker too. She was good, she was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a beautiful person in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 every way. She took over that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 whole Republican convention, Kai, Kai,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 our beautiful Kai. So-\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 What's her parenting style? The one\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 thing I always told my kids,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 no drugs, no alcohol,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 no cigarettes. Now,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in my day, there were no drugs.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 There was alcohol and cigarettes, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I had a brother that went through a lot with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 alcohol, and he taught me a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 lot. He really taught me a lot. And my\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 brother, Fred, and he had\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a problem with alcohol, to put it mildly,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and he would always, and he was quite\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a bit older than me, and he'd been\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 through it, and he would say, no alcohol,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 never want to see you drink. You know,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 very strong. And he'd also\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 say no cigarettes, but because you know, cigarettes\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are like, you don't need, if you don't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 smoke, if you don't drink,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you have no problem with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 staying off- When\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you do drink, it's very hard\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to stay off it. I mean, I've seen very\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 strong people that cannot get off. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the way you get off is if you never start,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you never start, I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 never had a glass of alcohol in my life,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I've never had a glass of alcohol,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you can believe it. I think largely because of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 my brother. I think if I did, I probably\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 would have a problem, you know, personality type,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 right? But I never had a glass. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have no longing for it. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have friends that earn the wagon, as they say,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and I watch\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 them watching trays go by. The tray is going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 by, oh, it's like, they\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have, you know, it's a thing that they\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 can't get over with. Same\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with smoking, it's tough. I've seen\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 guys just grab somebody's cigarette. They\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 haven't had one in a long time. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to them, it's like the greatest sensation.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 If you've never smoked, you just don't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have that problem. So I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 tell people for their children, no\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 drugs, no alcohol,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and no cigarettes. They\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 obviously work really, really hard. How'd you teach them work\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 ethic? They have to like what they do. If they\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 don't like what they do, they do. My kids like\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what they do. And I would\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 say genetically, I'm a believer in genetics. You know,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I like it, I'm good at doing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 certain things. And, you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know, resources, like too slow resources,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 don't produce a Kentucky\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Derby winner, right? And that's not the way it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is. But you have to have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 an ability at something. And if you don't have the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 ability, don't do it. But most importantly,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do something you like, whether it's your parents or not, you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know, your parents want you to go into a business, or\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they want you to go into a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 store with them if they have a store. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 would say that you have to love\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what you do. If you don't love what you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do, it's not gonna work. I've\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 never seen it. If you don't wanna\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 get up in the morning and go to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 work, you know, a lot of people say, with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 all the people that come after you, do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you really love getting up in the morning?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 You understand that, right? I'm\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 attacked at left and right. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I do because we make so much progress.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We're doing great on the campaign, as you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 probably see. We're leading in the campaign now\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and doing well. We beat Biden\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and we were up so far on him. And then\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they said, that's like a fight. You're in a fight\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and they changed the fighter in the middle of the,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 right? In the middle of the fight, they changed the fighter. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 now we're beating her very badly. I'd\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be so interesting to see her in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your show because I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 don't believe that she would be able to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 answer any questions on what you discuss better\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 than anybody else. Well, I'm happy to have her\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if she'd come. I'm sure she would say, sure\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 she'd love to come, she wouldn't come. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I hear you're going back to Butler and finish\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the speech. I am, I'm gonna say, as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I was saying. Yeah. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 when that happened and you get in the car, I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know I saw a clip the other day that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Milani was watching on television. She saw\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the shot, saw you dodge, saw you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 go down, saw you get up. And how\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 fast were you able to get on the phone and talk to her? Well,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I know she was calling and I was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a little tough to take a phone\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 call with blood pouring down your ear.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 People don't know, the ear is the bloodiest part. If\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you get hit in the ear, it bleeds because there\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was a lot of blood. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 no, I spoke to her by the time I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 got to the hospital, I spoke to her. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 she was sort of watching it. She\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 had it held off for a couple of minutes\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and then somebody called her and said, he's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 okay, he's okay. She said, what do you mean he's okay?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 What does that mean? She had\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 no idea. And then she went back and pressed it and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 caught up. Now it was tough for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her, tough for my son too. He\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 came out, somebody had said, your\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 father just got hit. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 he came in and he was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 very riled up. That's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a tough thing. That was a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 tough day. And I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 don't recommend it for anybody. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 get very lucky or maybe more than\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 luck. Yeah, if you don't turn your head and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 start talking about the immigration chart at the precise\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 moment, it's a problem. If I don't turn my\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 head at the exact 90 degree\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 angle, if I was a little off, one\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 way or the other, I'm\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not doing this very\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 nice interview with you. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 wouldn't be around to do this interview. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 when you were in the White House for four years, you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 were talking about loving your work earlier. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have the privilege of loving my work. That's why I still\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 work. You do. That's why I still do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it. I don't need to, obviously. Yeah. More just\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 like you don't need to. What was the most\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 rewarding thing in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the four years that you were there for you?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So my whole thing is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 make America great again. All right, that's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 why I do it. And we did\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it. Then COVID came, we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 did a really good job on that. So it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was always about making\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it great again. I had the country\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 going just prior to COVID coming\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 at a level that nobody had ever seen. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 even if you go all four years, it was so\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 good that even with that terrible\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 interruption that destroyed the world, we had\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the greatest four years. The economy was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so great. The job numbers were the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 best ever, et cetera. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I think just that concept of what I had\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 done. Is the performance. Yeah. Individual\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 things, getting the tax cuts approved. Biggest\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 tax cuts in history. Biggest\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 regulation cuts in the history of our\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 country. Rebuilding the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 military. We did a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 job in the, I rebuilt the whole military.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And then you see a lot of that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 military being given to Afghanistan stupidly because they\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 left the country. I mean, you know, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 now you see them parading it back and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 forth. That was, I think,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the most embarrassing moment in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the history of our country, what they did.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 But there were a lot of individual achievements\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that we had, the creation of Space Force.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 You know, Space Force is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 now dominating. and when I came, there was no space for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 us. The first time since Air Force, 78 years, maybe\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 80 years by now, and we are dominating\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 space now. We wouldn't be. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 were in third place by far, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 now we're way in first place, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's very important. Militarily, it's very important.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 President Trump, thanks for taking time. Thank you very much.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Your team told us you got a speech here in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a few minutes. I do. We were still\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 able to squeeze this in, and I appreciate your time. Appreciate\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you hanging out with us a little bit. It's a great\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 honor. I've watched you for many years. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 shouldn't say that, because, but I can say\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it from both of us. I've watched you for many years in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a real pro. Thank you very much. Thank you,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 brother. Good to see you. Thank you very much. Thank\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you.\cb1 \
+}

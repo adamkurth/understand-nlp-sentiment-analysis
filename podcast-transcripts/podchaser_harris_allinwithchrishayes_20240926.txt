@@ -1,0 +1,3338 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Arial-BoldMT;\f1\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;\red252\green252\blue252;}
+{\*\expandedcolortbl;;\cssrgb\c13333\c13333\c13333;\cssrgb\c99216\c99216\c99216;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs21 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 0:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 From breathtaking cliff dives to the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 mega rush of free ride mountain\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 biking, Red Bull harnessed 5G solutions\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 from T-Mobile for Business to put\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 adrenaline on display. Relying on the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 strength of our 5G network, Red\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Bull powered POV drones to deliver\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 unmatched views while broadcasting in real\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 time from some of the most\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 remote locations in America. This is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 heart pounding fan experiences. This is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Red Bull with T-Mobile for Business.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Take your business further at t-mobile.com/now.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 For over 130 years, McCormick\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 has helped you make Mom's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 lasagna to keep her\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 secret recipe alive. Take\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 over taco night no\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 matter how chaotic your day is. Conquer\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Conquer the bake sale, even\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you get to at last minute, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 craft the perfect Sunday brunch when\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's not even Sunday. Because with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 McCormick by your side, it's gonna be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 great. Good\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 evening, I'm Chris Hayes and no, we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 did not skip an hour. Joy Reid\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is at the Emmys tonight. The readout\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 has been nominated for outstanding breaking news\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 coverage. Well deserved. Congratulations, Joy Reid and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the team. So tonight I'm going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to be with you for a very special two hour edition of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 All In. We have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 an exclusive interview with Vice President Kamala\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Harris. It is her first one\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on one interview with the major network since she\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 became the Democratic nominee. Late today,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 my colleague Stephanie Ruhl sat down with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the vice president in Pittsburgh, Pennsylvania for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 an in-depth conversation about the economy. We're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 going to bring you that interview in a moment. Today,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Vice President Harris made her economic pitch to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 voters ahead of election day, also\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in Pittsburgh. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 intend to chart a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 new way forward and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 grow America's middle class. Donald\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Trump intends to take a moment\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to vote. This\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 here is very prescribed, it's very\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 controlled. Yeah, probably the biggest gut\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 decision I've made most\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 recently is to choose my running\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 mate. Yeah. There\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 were lots of good, incredible candidates\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and ultimately that came down to a gut decision. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know I'm out of time, but then I just want\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to ask you a question from my gut. Okay. Because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 today we're talking about reproductive, excuse me, we're talking\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about the economy. Yeah. People\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 don't think often about reproductive rights\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 being an economic issue, but it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is. A woman's ability\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to plan her future, her education, her\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 life. Today and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in the last few days, Donald Trump keeps\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 talking about it and how in overturning Roe\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 v. Wade, he helped women. He protected women.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 He says they're miserable today, they're poorer today,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they're more vulnerable today. He\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 said he will be the protector of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 women if elected. Can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you respond to that? So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Donald Trump is also the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 person who said women should be punished for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 exercising a decision\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that they rightly should be able to make about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 their own body and their future. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I think we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 would all agree that as a result\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of that perspective that he has about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 women, he also then\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 chose three members of the United States Supreme\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Court who did as he intended, undid\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the protections of Roe v. Wade, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 now in state after state, you see\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 laws being passed that do punish women.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Laws that, I mean, most recently\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a heartbreaking story resulted\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in a young woman dying,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a mother of a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 six-year-old, heart-wrenching\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 stories. And that's for the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 listener, much less their family. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 look, I think the thing about Donald\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Trump is as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a Hawaiian senior executive editor of Bloomberg\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Opinion. Michael, let me start with you,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your remote there. What'd you think of the interview? I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 thought it was very good. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 mean, look, you just have this\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 moment. We have a presidential candidate\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 sitting down and saying, here's what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I think about what's happening in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the country. Here's what I'm\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 offering to the American people. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I just thought it was solid. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 love the part in the speech that she related\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to and sort of drove\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in the conversation with Stephanie. This\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 combo meal of I'm a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 capitalist who supports unions\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and workers. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that's a space we have not been\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in in a very, very long time\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 where that bridge is connected, where\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 oftentimes we try to pit one\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 side against the other. She really is trying\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to figure out a way to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 create this opportunity economy around\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 some fundamentals that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 translate across party\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 platforms in a way that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people don't get stuck on them. You know what I'm\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 saying? So you don't get stuck on stupid and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you retreat to, well, I'm a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 conservative, I'm a liberal, I'm a progressive,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I'm a Republican, I'm a Democrat. You\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 sort of say, well, how does this\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 benefit my economy, my personal economy?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So I think she came out strong on that.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 One of my big takeaways, Tim, is that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the revolution, the revival of industrial policy, which\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in some ways never went away because we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have this thing called the Defense Department where\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we do all our industrial policy and have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for a very long time, spends hundreds of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 billions of dollars every year. But the sort\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of revival of industrial policy, both as rhetoric,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 right? We need redundancy and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 supply change, something she talked about with steel.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We need to bring manufacturing back and we're gonna use policy levers\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to it. There is continuity there, right?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Like that part of the Biden agenda, which is a huge\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 part of it, is also part of the Harris\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 agenda. And it's tough. For\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 over 130 years, McCormick has\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 helped you make Mom's lasagna\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to keep her secret recipe alive. Take\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 over taco night no\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 matter how chaotic your day is. Conquer\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the bake sale, even if\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you get to at last minute, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 craft the perfect Sunday brunch when\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's not even Sunday. Because with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 McCormick by your side, it's gonna be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 great. Americans.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 It took Medicare, where the federal government\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 came back and financed and backed up\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the system to finally get 65 and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 older health care coverage. Right, because why\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do you want to take premiums\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 from a 69-year-old or a 72-year-old? You don't. You\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 want a 21-year-old. As you said,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you want the healthiest, youngest,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 wealthiest people to be on your plans.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And in fact, the old system sort\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of worked through this kind of cherry-picking. Even\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 after you have Medicare, so people 65 or older\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are in that pool. But I remember looking at\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 some of the ACA repeal plans, estimating\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 premiums for someone who's 63. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 maybe has had some health issues. You're looking at $20,000 a year, $26,000 a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 year. There's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 no way to make the math work. Is there? What\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 happens is people will pool to where\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they can pay least. And if you're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 26 years of age, you're not going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to go in with someone who's 56 years of age. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what happens is all those 50-year-olds are going to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:08:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be stuck in plans that are very expensive because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 nobody wants to be pooled with them. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the ACA made sure we prevented that.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 That's why we have the protection against\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 pre-existing conditions. You cannot watch an insurance\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 company say to you, Chris,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I'm not going to insure you because you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have an existing condition which would cost a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 lot of money. You cannot discriminate that way\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 anymore. Just to be clear, you couldn't... Oh,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I actually don't know the answer to the question. Could\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you...what Vance is proposing or what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 others are proposing, could you do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that administratively from the helm of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 HHS? Or you'd have to pass\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 something, right? I think something...we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 couldn't do it that way. Well, certainly not in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the world. The law requires what's called community rating.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And the law requires this regulation\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of insurance companies, right? And the law\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 doesn't allow you to pool the way\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that I think they're speaking about because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it would be discriminatory. It\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 would now be based... Yeah, right. So they'd\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have to change the law. You can't do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it from the executive position. Correct. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 wanted to ask you another question about a public... health crisis\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we've been battling in this country. And I think it's gotten\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not that much attention. It's overdose deaths.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Now, it's almost impossible to articulate the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 insanity of the growth of overdose deaths.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I think in, I was reading a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 piece today by David Wallace-Walls in The\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Times, I think in 1982, it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was like a thousand overdose deaths total in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the country. Last year was about a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 hundred thousand. That\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 said, we have new data on overdose\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 deaths that have continued to drop\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 now at their lowest level in three years.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 There has been progress over the last few\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 years of overdose deaths. What\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do you attribute that progress to? Remember\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that many of the Americans who are\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 dying today are dying without expecting to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 die. These are not folks who are so\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 addicted that there's no, eventually\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they were going to overdose. These are\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Americans who in many cases are taking\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a particular drug, don't realize\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that it's laced with something like fentanyl.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 The fentanyl ends up killing them. That's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:10:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 why you see such high overdose rates. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are beginning to see a drop, I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 think, because we have, in this administration,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we decided to tackle overdose\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in three important ways and then\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 added one new one. Obviously, prevention,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 treatment, and then follow-up care. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we added a fourth component, harm\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 reduction. If you are about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to take a drug because you're addicted, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you can check to find out if it's laced\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with fentanyl, it might stop you from taking that drug.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 If you find out, oh my God, I didn't realize\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this drug is laced with fentanyl. Fentanyl\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 strips, which are out there today in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 many, many programs, the federal government would\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 prohibit programs from getting federal dollars if\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they provided fentanyl strips. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have said the evidence proves that you can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 save a life by giving someone a fentanyl\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 strip so they can find out if fentanyl\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is laced in their drug. This harm reduction,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I've covered multiple\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 iterations of the harm reduction debate. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 remember people demagoguing on needle exchanges and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 things like this during HIV. Fentanyl\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 strips seem to me like an obviously sensible\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 thing. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 recommend people check it out. Thank you very much. Coming\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 up, why isn't Donald Trump talking about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 his old buddy, Mark Robinson? Does\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 he still cherish the disgraced MAGA candidate like he\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 used to? We'll tell you what happened\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 when Trump visited North Carolina today. Ahead.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So there's interesting polling out lately, which\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 shows that while Governor Tim Walz is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 viewed pretty favorably, JD Vance\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is really unpopular among the voting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 public. A recent U-Gov survey\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 found that Walz has a minus one favorability\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of registered voters, while Vance's favorability was minus\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 10. A CNN survey\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 found a bigger gap between the two VP\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 picks, Walz at plus four, Vance at minus\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 12. An NBC News\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 survey showed Walz's favorability at plus seven\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and Vance's at minus 13. Now\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I think part of the problem for JD Vance is that he appears to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have talked to every last eccentric\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 reactionary with a microphone and a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:20:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 podcast, where he says or\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 agrees with some really weird and off-putting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 stuff. Stuff like the purpose of the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 post-menopausal female. But there's a bit\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of a strategy to it, I do think. Like\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with the RFK Jr endorsement that just\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 happened, the Trump Vance\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 campaign appears to be trying to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 assemble a political collision of oddballs.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 People with weird views, anti-establishment kooks,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and conspiracy theorists. This\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 week on my podcast, Why Is This\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Happening? I talked to the great semaphore\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 political reporter, Dave Weigel, who has been\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 chronicling just how Republicans are trying to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 jam normies in with the conspiracy nuts.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 There is a heuristic for this too, which is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that no matter how\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 many things Donald Trump talks about that sound\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 weird to you, either the media is misrepresenting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 them or they don't matter. The media is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 focusing on that because they want you to be divided. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they don't want you to notice the good things\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 he did. And this is boiled down into a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 bumper sticker phrase. I'd take a mean tweet and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 $2 gas. It\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 just drilled. into people's minds that,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 yeah, well, if he rambles about something,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's in the service of being an\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 effective president. You\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 can scan the QR code on your screen to listen\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to that episode now, or just search Chris Hayes wherever\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you get your podcasts. Donald\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Trump spent the day campaigning in North Carolina, but\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 there was a notable absence from his rally in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the Charlotte suburbs. His good friend,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 his dear buddy, the sitting Lieutenant Governor,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and current Republican gubernatorial nominee, Mark\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Robinson. Thanks as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 well to, I think,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 one of the hottest politicians in the United\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 States of America, and he's become a friend\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of mine, Lieutenant Governor\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Mark Robinson. I said to this\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 man, and when he\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 endorsed me, he gave a speech, and I said, you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are Dr. Martin Luther King on steroids.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 That's how good you are. You\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are unbelievable as a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 speaker. I wanna thank a very good man,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and he's in there fighting, he's fighting, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:22:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we know he's a fighter. The\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 next governor of North Carolina,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Mark Robinson. That last\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 one was just five weeks ago, but that guy was so\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 weird, nowhere to be found today. Where\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was Martin Luther King on steroids? The\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 guy who delivered a prime time speaking\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 address at the Republican National Convention just\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 two months ago. Well, as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you may be aware, Mark Robinson has had a rough\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 couple of weeks. Recent CNN\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 report uncovered dozens of racist, offensive,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and truly wildly graphic\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 comments, apparently posted by Robinson on\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a porn website called Nude\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Africa, where he refers\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to himself as a, quote, black Nazi,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and says he wants to bring back slavery. Now,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in the face of some pretty damning\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 evidence that it was Robinson, in fact, that who made\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 those comments, he is denying it. I'm\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not sure his staff buys his\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 denial, since basically all of them\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 quit, including his campaign manager, deputy\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 campaign manager, senior advisor, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 finance director. We also learned\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this week that Brian Kemp, the Republican,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 governor of the neighboring state of Georgia\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 withdrew his endorsement of Robinson. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with all that in mind, perhaps it's not so\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 surprising Trump did not want us to share a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 stage with Robinson today in a key swing state\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that remains incredibly close neck and neck\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in the polls. Lauren Grogo is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 CEO of the Georgia-based voting rights group Fair\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Fight. She previously served as campaign manager for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Stacey Abrams and her gubernatorial races. Carlos Corbello\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is a former Republican congressman from Florida and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they join me now. It's good to have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you both here. I want to start with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you, Carlos. Now, I will say this about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Donald Trump. As\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 far as I know, he has never\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 posted on a porn message\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 board calling himself a Nazi. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that is in a different category. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it is interesting the degree to which if\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you're not Trump, the sort of normal laws\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of politics do seem to apply. It happened\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to Roy Moore when he was running for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Senate in Alabama. It's, you know, Mark Robinson\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is persona non grata. Like, you know,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that's what you would expect, right? Normal. Yeah. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:24:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not like George Santo. You know, there's all these\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people that you could give examples chapter and verse\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of, but not for Trump. It's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Trump's nature. I mean, these are the people who\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 he actually feels comfortable with. If you notice, it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 always takes them a long time. If you ever\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 disavows them, it takes them a very long time.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Oh, he's not a disavow, but he will sort\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of moonwalk away. Well, you know, he's got to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 win an election. But once this election is over,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I mean, these are the people he likes to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be surrounded by. And his\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 base excuses it. They think\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's okay where everyone else is like,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 no, no, even the people who work for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the man like we need to get the hell\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 out of here. Trump's like, no, these are my\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people. Lauren,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 let me ask you this about your state in Georgia,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 where you've spent a lot of time and organized\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a lot. North Carolina is neck and neck. Um,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Georgia was looking really, really\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 bad for the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Biden campaign when Biden was the candidate\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 reliably free. four or five points. It's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 now looking much closer, although probably a slight lead.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 How do you read the politics of that state right now? What's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so interesting about the Robinson conversation for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Trump, it's clear when you look at\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Trump's spending, the two states he's spending\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the most in are Pennsylvania and Georgia.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 If he wins Pennsylvania, Georgia, and North\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Carolina, he gets exactly 270, and that's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 his top plan, which is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 why this meltdown in North Carolina is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not optimal for him because he hasn't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 been spending much there. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you back up, Trump is in quite\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a situation. He's getting outspent across the board.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 He's backed into a corner, and now\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 his guy in North Carolina is failing,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 putting that state even further in contention.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Georgia and Pennsylvania are neck and neck.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And so how I view this whole\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 thing, and I talk to your producers,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we are a spill market to some\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 North Carolina markets, so this is very near\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and dear. People are talking about this in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Georgia. It's very\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 good for Democrats overall. It's a disaster\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:26:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for our politics overall. And it's interesting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to me that Kemp is backing away\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 now from Robinson, but still very active\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in supporting Trump, even though he has\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 been beating up on Kemp. But that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 seems they see that. Well, that's histone\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 made up. Well, Kemp is the perfect\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 example of this, right? The thing I'm\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 just saying, which is like, right,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the rules apply to Robinson, but\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not to Trump. And Kemp's an example where, and this\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is one of these things we've seen time and time\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 again, Carlos, and I'm sure you've been on the receiving\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 end of it sometimes, where he just, he was berating\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Kemp. He's calling him a coward, all these things on\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 social media. And then someone got to his ear, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 then they sort of kissed and made up, as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you put it. Kemp's a very\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 popular figure in Georgia. He's pulling at\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 55%, I think, approval somewhere\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 around there. How\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 read the relationship between a figure like\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Kemp and how important it is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to be on good terms with Trump for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 our Georgia win? It's all\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about the base, Chris. Kemp\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 does not like Donald Trump. We know\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 his wife really dislikes Donald\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Trump. I bet you she's the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 only woman in Republican politics who\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 feels that way. Probably.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I mean, she's probably just singular. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 doubt that. Publicly. So, but\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 these people, you know, Kemp wants a future\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in politics. He either wants to run for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Senate, right, in Georgia, or maybe for the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 presidency. And for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 whatever reason, Chris, and someday maybe someone will\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be able to explain this, Donald\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Trump's base excuses everything\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of him. He said it a long time\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 ago, right? Fifth Avenue shoots someone in Fifth\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Avenue. It's never stopped being true. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 want to talk about the state election board since\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I have you here. And because that's one\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of the big stories happening in these three states,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this sort of triangle they're trying to build,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Pennsylvania, North Carolina, and Georgia. You\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 wrote a piece for mec.com about the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 election board that on a three to two vote,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it passed a rule that mandates hand counting ballots\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:28:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on election night or in the days after, in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 every precinct of the state. The new rule requires\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 poll workers to open ballot boxes. The precincts remove\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and pile the ballots into sacks of 50, hand\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 count the ballots and reconcile that hand count\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with the totals on the ballot scanner. As\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a result, the board increased the likelihood\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that final certification of Georgia's election results\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 could be delayed. The only reasonable conclusion\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is that the board's majority intends the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 mayhem it is creating. Is there\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 any good faith reason for them to do this? Absolutely\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not. We're actually 20 days from the start of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 early voting in Georgia and 41 days from the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 election. And what I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 find so entertaining\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in a dark, dark way. Trump is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 saying it's too late to debate Kamala\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Harris. Trump came out and said, add\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a boy, add a girl to the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 state election board for changing these rules.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So right now what we have is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 chaos is the goal. Right now we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have 159 counties in a critical swing state. That\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 don't know if they're supposed to follow what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this unelected out of bounds board\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 or actual laws and statutes. in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the state. We have an attorney general that has\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 said the board is out of bounds. Yeah, they say\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's not lawful. Correct. And so chaos\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is the mission. That is the goal.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 It's not going to work. We are\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 fighting back. fairfight.com and our whole operation\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is pushing back hard. Voters are\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 going to have the final state. So I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 think this is going to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 cause a lot of chaos, right? Post-election, if it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 goes through. But I think this hurts\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Donald Trump now. Why? Because it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 makes 2024 about 2020 again. It brings\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 back the conversation in a state like Georgia,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 where it's a very sensitive topic about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the 2020 election and Donald Trump continues\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 being the candidate of the past, whereas\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Kamala Harris can be the candidate of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the future. Well, and to that point, we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 just did focus groups a couple weeks ago and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we saw a couple things. Number one, we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have voters really like Kemp. They trust him, do the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 right thing. But now the buck is with him on\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this issue. Interesting. Lauren Growargo, Carlos Cabelo. Thank\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you both. That does it for this special\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:30:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 edition of All In. You can catch us\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 every weeknight at eight o'clock on MSNBC. Don't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 forget to like us on Facebook. That's facebook.com/All\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 In With Chris. For\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 over 130 years, McCormick has\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 helped you make mom's lasagna to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 keep her secret recipe alive. Take\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 over taco night, no\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 matter how chaotic your day is. Conquer\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the bake sale, even if\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you get to it last minute. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 craft the perfect Sunday brunch when\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's not even Sunday. Because with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 McCormick by your side, it's going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to be great.\cb1 \
+}

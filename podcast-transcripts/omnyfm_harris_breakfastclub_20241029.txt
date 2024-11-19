@@ -1,0 +1,411 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red55\green44\blue80;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c28235\c23529\c38824;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 00:00\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Wake\'a0that\'a0answer\'a0up\'a0in\'a0the\'a0morning.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Wake that answer up in the morning.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:02\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Breakfast\'a0club,\'a0Good\'a0morning's\'a0I'm\'a0a.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Breakfast club, Good morning's I'm a.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:07\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Love,\'a0madam\'a0Vice\'a0President.\'a0How\'a0are\'a0you?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Love, madam Vice President. How are you?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:11\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I\'a0am\'a0very\'a0well.\'a0How\'a0are\'a0you\'a0doing\'a0this\'a0morning?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 I am very well. How are you doing this morning?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:13\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Blessed\'a0Black\'a0and\'a0Holly\'a0favorite.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Blessed Black and Holly favorite.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:15\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Always\'a0for\'a0you.\'a0I\'a0hear\'a0an\'a0echo?\'a0Do\'a0you\'a0hear\'a0it?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Always for you. I hear an echo? Do you hear it?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:19\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 No,\'a0we\'a0don't.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 No, we don't.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:20\cb1 \
+\cb3 Speaker 3\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We\'a0don't\'a0hear\'a0echo\'a0will\'a0lower\'a0you\'a0down\'a0a\'a0little\'a0bit,\'a0so\'a0you\'a0don't\'a0hear\'a0your\'a0feedback?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 We don't hear echo will lower you down a little bit, so you don't hear your feedback?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:22\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Can\'a0you\'a0hear\'a0a\'a0better?\'a0Now?\'a0Defense\'a0might\'a0have\'a0the\'a0phone\'a0tap.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Can you hear a better? Now? Defense might have the phone tap.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:25\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Well,\'a0and\'a0the\'a0Russians\'a0don't\'a0forget\'a0them.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Well, and the Russians don't forget them.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:28\cb1 \
+\cb3 Speaker 3\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Right,\'a0Good\'a0morning\'a0everybody,\'a0the\'a0breakfast\'a0clubs,\'a0and\'a0we\'a0got\'a0a\'a0special\'a0guest\'a0on\'a0the\'a0line,\'a0the\'a0Vice\'a0President,\'a0Kamala\'a0Harris.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Right, Good morning everybody, the breakfast clubs, and we got a special guest on the line, the Vice President, Kamala Harris.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:37\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Good\'a0morning,\'a0good\'a0morning,\'a0Good\'a0morning\'a0everyone.\'a0It's\'a0good\'a0to\'a0be\'a0with\'a0you\'a0again.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Good morning, good morning, Good morning everyone. It's good to be with you again.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:43\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 First\'a0of\'a0all,\'a0how\'a0are\'a0you?\'a0First\'a0of\'a0all,\'a0how's\'a0your\'a0energy?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 First of all, how are you? First of all, how's your energy?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 00:46\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 You\'a0know?\'a0I\'a0am\'a0well.\'a0We\'a0are\'a0eight\'a0days\'a0out,\'a0seven\'a0well\'a0a\'a0week\'a0out\'a0practically,\'a0and\'a0I\'a0am\'a0just\'a0I'm\'a0I'm\'a0in\'a0the\'a0zone.\'a0Right.\'a0We\'a0got\'a0to\'a0cover\'a0a\'a0lot\'a0of\'a0ground.\'a0There's\'a0still\'a0a\'a0lot\'a0of\'a0people\'a0to\'a0talk\'a0with,\'a0and\'a0so\'a0I\'a0am\'a0traveling\'a0all\'a0over\'a0the\'a0country,\'a0in\'a0particular\'a0the\'a0Swing\'a0States,\'a0to\'a0talk\'a0with\'a0folks\'a0and\'a0organize\'a0them\'a0and\'a0remind\'a0folks\'a0of\'a0the\'a0power\'a0of\'a0their\'a0vote.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 You know? I am well. We are eight days out, seven well a week out practically, and I am just I'm I'm in the zone. Right. We got to cover a lot of ground. There's still a lot of people to talk with, and so I am traveling all over the country, in particular the Swing States, to talk with folks and organize them and remind folks of the power of their vote.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 01:09\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Well,\'a0you\'a0know,\'a0Madam\'a0Vice\'a0President,\'a0you\'a0know\'a0I\'a0support\'a0you.\'a0This\'a0is\'a0Charlamagne.\'a0You\'a0know\'a0I\'a0support\'a0you.\'a0The\'a0Breakfast\'a0Club\'a0supports\'a0you.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Well, you know, Madam Vice President, you know I support you. This is Charlamagne. You know I support you. The Breakfast Club supports you.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 01:15\cb1 \
+\cb3 Speaker 4\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 In\'a0twenty\'a0eighteen,\'a0when\'a0you\'a0came\'a0up\'a0here,\'a0I\'a0told\'a0you\'a0I\'a0thought\'a0you\'a0would\'a0be\'a0president\'a0one\'a0day\'a0that\'a0I\'a0think\'a0God\'a0is\'a0setting\'a0us\'a0up\'a0for\'a0a\'a0woman\'a0of\'a0colored\'a0president\'a0in\'a0twenty\'a0twenty.\'a0I\'a0think\'a0that\'a0the\'a0Senator\'a0Kamala\'a0Harris,\'a0I\'a0think\'a0she's\'a0off\'a0future\'a0president\'a0with\'a0it.\'a0And\'a0I\'a0hope\'a0she\'a0hoped\'a0God\'a0puts\'a0his\'a0hands\'a0on\'a0her\'a0and\'a0says,\'a0you\'a0know\'a0what,\'a0I\'a0want\'a0you\'a0to\'a0do?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 In twenty eighteen, when you came up here, I told you I thought you would be president one day that I think God is setting us up for a woman of colored president in twenty twenty. I think that the Senator Kamala Harris, I think she's off future president with it. And I hope she hoped God puts his hands on her and says, you know what, I want you to do?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 01:31\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 This\'a0all\'a0right,\'a0we\'a0thought\'a0it\'a0would\'a0be\'a0in\'a0twenty\'a0twenty.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 This all right, we thought it would be in twenty twenty.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 01:33\cb1 \
+\cb3 Speaker 4\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I\'a0was\'a0on\'a0the\'a0campaign\'a0trail\'a0with\'a0you\'a0in\'a0twenty\'a0twenty,\'a0so\'a0I'm\'a0happy\'a0to\'a0see\'a0you\'a0in\'a0this\'a0position.\'a0And\'a0the\'a0reason\'a0I'm\'a0stressing\'a0that\'a0I'm\'a0voting\'a0for\'a0you\'a0on\'a0November\'a0fifth\'a0is\'a0because\'a0Trump\'a0has\'a0been\'a0running\'a0these\'a0ads\'a0with\'a0myself\'a0and\'a0envying\'a0them,\'a0these\'a0anti\'a0trans\'a0ads\'a0without\'a0our\'a0permission.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 I was on the campaign trail with you in twenty twenty, so I'm happy to see you in this position. And the reason I'm stressing that I'm voting for you on November fifth is because Trump has been running these ads with myself and envying them, these anti trans ads without our permission.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 01:48\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 How\'a0do\'a0we\'a0combat\'a0that?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 How do we combat that?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 01:50\cb1 \
+\cb3 Speaker 3\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Can\'a0we?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Can we?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 01:51\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Well?\'a0Yes,\'a0I\'a0mean,\'a0look,\'a0truth\'a0is\'a0always\'a0going\'a0to\'a0prevail\'a0over\'a0the\'a0misinformation\'a0and\'a0the\'a0lies,\'a0but\'a0it\'a0takes\'a0work,\'a0right\'a0and\'a0so\'a0having\'a0this\'a0conversation\'a0right\'a0now,\'a0so\'a0all\'a0your\'a0listeners\'a0know.\'a0But\'a0there\'a0is\'a0a\'a0lot\'a0of\'a0misinformation\'a0and\'a0disinformation\'a0because\'a0they\'a0don't\'a0actually\'a0want\'a0to\'a0talk\'a0about\'a0the\'a0truth\'a0because\'a0their\'a0truth\'a0is\'a0a\'a0failing\'a0truth,\'a0and\'a0so\'a0yeah,\'a0we\'a0got\'a0to\'a0keep\'a0in\'a0minding\'a0both\'a0of\'a0the\'a0reality,\'a0which\'a0is\'a0I\'a0am\'a0blessed\'a0and\'a0honored\'a0to\'a0have\'a0your\'a0support\'a0and\'a0the\'a0support\'a0of\'a0so\'a0many\'a0communities\'a0and\'a0individuals\'a0who\'a0are\'a0their\'a0names\'a0are\'a0known,\'a0and\'a0some\'a0names\'a0you\'a0know\'a0your\'a0listeners\'a0may\'a0not\'a0know,\'a0but\'a0they\'a0are\'a0leaders\'a0in\'a0their\'a0community.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Well? Yes, I mean, look, truth is always going to prevail over the misinformation and the lies, but it takes work, right and so having this conversation right now, so all your listeners know. But there is a lot of misinformation and disinformation because they don't actually want to talk about the truth because their truth is a failing truth, and so yeah, we got to keep in minding both of the reality, which is I am blessed and honored to have your support and the support of so many communities and individuals who are their names are known, and some names you know your listeners may not know, but they are leaders in their community.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 02:26\cb1 \
+\cb3 Speaker 3\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Now,\'a0MS\'a0Vice\'a0President,\'a0if\'a0you\'a0were\'a0here,\'a0I\'a0would\'a0be\'a0holding\'a0up\'a0my\'a0Hampton\'a0University\'a0helmet.\'a0But\'a0we're\'a0not\'a0going\'a0to\'a0go\'a0down\'a0today.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Now, MS Vice President, if you were here, I would be holding up my Hampton University helmet. But we're not going to go down today.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 02:33\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I\'a0want\'a0to\'a0take.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 I want to take.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 02:36\cb1 \
+\cb3 Speaker 5\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Sorry\'a0both\'a0of\'a0you\'a0Hampton\'a0Delaware\'a0University.\'a0Honestly\'a0both\'a0of\'a0y'all\'a0should\'a0have\'a0attended.\'a0But\'a0we\'a0get\'a0it,\'a0we\'a0understand.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Sorry both of you Hampton Delaware University. Honestly both of y'all should have attended. But we get it, we understand.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 02:45\cb1 \
+\cb3 Speaker 3\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I\'a0wanted\'a0to\'a0ask\'a0about\'a0those\'a0trends\'a0ads,\'a0you\'a0know,\'a0in\'a0the\'a0ads\'a0he's\'a0saying\'a0that,\'a0you\'a0know,\'a0Kamala\'a0Harris\'a0wants\'a0to\'a0spend\'a0tax\'a0payers\'a0money\'a0for\'a0sex\'a0changes\'a0in\'a0jails.\'a0He\'a0spent\'a0millions\'a0and\'a0millions\'a0of\'a0dollars\'a0on\'a0and\'a0like\'a0Charlamage\'a0said,\'a0have\'a0him\'a0and\'a0myself\'a0and\'a0that,\'a0how\'a0do\'a0you\'a0answer\'a0that\'a0for\'a0people\'a0at\'a0I\'a0don't\'a0know,\'a0And\'a0what\'a0is\'a0the\'a0real\'a0news\'a0when\'a0it\'a0comes\'a0to\'a0that.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 I wanted to ask about those trends ads, you know, in the ads he's saying that, you know, Kamala Harris wants to spend tax payers money for sex changes in jails. He spent millions and millions of dollars on and like Charlamage said, have him and myself and that, how do you answer that for people at I don't know, And what is the real news when it comes to that.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 03:03\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Well,\'a0first\'a0of\'a0all,\'a0to\'a0your\'a0point,\'a0he\'a0has\'a0spent\'a0tens\'a0of\'a0millions\'a0of\'a0dollars\'a0trying\'a0to\'a0hit\'a0me\'a0with\'a0a\'a0bunch\'a0of\'a0disinformation\'a0and\'a0misinformation\'a0on\'a0this,\'a0and\'a0he's\'a0living\'a0in\'a0a\'a0glass\'a0house\'a0because\'a0the\'a0policies\'a0he's\'a0speaking\'a0about\'a0in\'a0terms\'a0of\'a0those\'a0surgeries\'a0were\'a0also\'a0his\'a0policies,\'a0and\'a0the\'a0reality\'a0of\'a0it\'a0is\'a0that\'a0it\'a0would\'a0also\'a0those\'a0ads\'a0relate\'a0to\'a0two\'a0people,\'a0versus\'a0the\'a0fact\'a0that\'a0he\'a0wants\'a0to\'a0get\'a0rid\'a0of\'a0the\'a0Affordable\'a0Care\'a0Act,\'a0which\'a0would\'a0impact\'a0forty\'a0five\'a0million\'a0people.\'a0He\'a0wants\'a0to\'a0get\'a0rid\'a0of\'a0our\'a0thirty\'a0five\'a0dollars\'a0a\'a0month\'a0cap\'a0on\'a0insulin,\'a0which\'a0would\'a0impact\'a0millions\'a0of\'a0people,\'a0including\'a0millions\'a0of\'a0our\'a0seniors.\'a0Black\'a0and\'a0brown\'a0folks.\'a0Latinos\'a0are\'a0seventy\'a0percent\'a0more\'a0likely\'a0to\'a0be\'a0diagnosed\'a0with\'a0diabetes,\'a0Black\'a0Americans\'a0sixty\'a0percent\'a0more\'a0likely\'a0to\'a0be\'a0diagnosed\'a0with\'a0diabetes.\'a0He\'a0wants\'a0to\'a0get\'a0rid\'a0of\'a0all\'a0of\'a0that.\'a0He\'a0wants\'a0to\'a0take\'a0away\'a0healthcare\'a0through\'a0Medicare,\'a0and\'a0he\'a0wants\'a0to\'a0distract\'a0from\'a0the\'a0fact\'a0that\'a0he\'a0actually\'a0not\'a0only\'a0does\'a0he\'a0have\'a0a\'a0plan\'a0on\'a0this\'a0versus\'a0no\'a0plan\'a0on\'a0anything\'a0else,\'a0but\'a0his\'a0plan\'a0is\'a0to\'a0get\'a0rid\'a0of\'a0healthcare\'a0coverage\'a0for\'a0the\'a0most\'a0needy.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Well, first of all, to your point, he has spent tens of millions of dollars trying to hit me with a bunch of disinformation and misinformation on this, and he's living in a glass house because the policies he's speaking about in terms of those surgeries were also his policies, and the reality of it is that it would also those ads relate to two people, versus the fact that he wants to get rid of the Affordable Care Act, which would impact forty five million people. He wants to get rid of our thirty five dollars a month cap on insulin, which would impact millions of people, including millions of our seniors. Black and brown folks. Latinos are seventy percent more likely to be diagnosed with diabetes, Black Americans sixty percent more likely to be diagnosed with diabetes. He wants to get rid of all of that. He wants to take away healthcare through Medicare, and he wants to distract from the fact that he actually not only does he have a plan on this versus no plan on anything else, but his plan is to get rid of healthcare coverage for the most needy.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 04:11\cb1 \
+\cb3 Speaker 4\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Well,\'a0while\'a0he\'a0was\'a0at\'a0MSG\'a0yesterday,\'a0while\'a0he\'a0had\'a0the\'a0rally\'a0at\'a0MSG,\'a0and\'a0he\'a0had\'a0people\'a0up\'a0there\'a0insulting\'a0Puerto\'a0Ricans\'a0and\'a0black\'a0people\'a0and\'a0Jewish\'a0people,\'a0you\'a0was\'a0actually\'a0in\'a0Philly\'a0reaching\'a0out\'a0to\'a0the\'a0black\'a0and\'a0Latino\'a0community.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Well, while he was at MSG yesterday, while he had the rally at MSG, and he had people up there insulting Puerto Ricans and black people and Jewish people, you was actually in Philly reaching out to the black and Latino community.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 04:25\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Yes,\'a0and\'a0you\'a0know,\'a0it\'a0just\'a0turned\'a0out\'a0Charlemagne\'a0to\'a0be\'a0a\'a0real\'a0coincidence,\'a0but\'a0again\'a0pointing\'a0out\'a0a\'a0stark\'a0contrast\'a0between\'a0he\'a0and\'a0I.\'a0Yes,\'a0I\'a0was\'a0in\'a0Philly\'a0meeting\'a0with\'a0leaders,\'a0many\'a0leaders\'a0in\'a0many\'a0communities,\'a0but\'a0including\'a0leaders\'a0in\'a0the\'a0Puerto\'a0Rican\'a0community,\'a0to\'a0talk\'a0with\'a0them\'a0about\'a0my\'a0long\'a0standing\'a0commitment\'a0to\'a0Puerto\'a0Rico,\'a0to\'a0the\'a0people\'a0who\'a0live\'a0on\'a0that\'a0island,\'a0who\'a0have\'a0often\'a0been\'a0overlooked.\'a0In\'a0fact\'a0they\'a0know,\'a0and\'a0we\'a0talked\'a0about\'a0the\'a0fact\'a0that\'a0even\'a0when\'a0I\'a0was\'a0in\'a0the\'a0United\'a0States\'a0Senate,\'a0knowing\'a0Puerto\'a0Rico\'a0doesn't\'a0have\'a0its\'a0own\'a0United\'a0States\'a0Senator,\'a0I\'a0was\'a0a\'a0leader\'a0in\'a0making\'a0sure\'a0that\'a0we\'a0would\'a0get\'a0really\'a0leave\'a0to\'a0people\'a0on\'a0the\'a0island\'a0when\'a0it\'a0came\'a0to\'a0like\'a0the\'a0aftermath\'a0of\'a0Hurricane\'a0Maria.\'a0And\'a0what\'a0I\'a0shared\'a0with\'a0everyone\'a0is\'a0part\'a0of\'a0my\'a0opportunity\'a0economy,\'a0as\'a0you\'a0know,\'a0which\'a0is\'a0about\'a0lifting\'a0up\'a0people\'a0around\'a0home\'a0ownership\'a0and\'a0small\'a0businesses.\'a0That\'a0I\'a0will\'a0have\'a0a\'a0specific\'a0opportunity\'a0economy\'a0task\'a0for\'a0Puerto\'a0Rico\'a0that\'a0will\'a0focus\'a0on\'a0the\'a0needs\'a0that\'a0they\'a0have\'a0in\'a0terms\'a0of\'a0fixing\'a0that\'a0electrical\'a0grid\'a0in\'a0Puerto\'a0Rico\'a0and\'a0also\'a0bringing\'a0private\'a0sector\'a0investment\'a0together\'a0with\'a0government\'a0investment\'a0and\'a0nonprofit\'a0investment\'a0onto\'a0the\'a0island\'a0to\'a0help\'a0with\'a0job\'a0creation\'a0and\'a0sustainability\'a0for\'a0the\'a0island.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Yes, and you know, it just turned out Charlemagne to be a real coincidence, but again pointing out a stark contrast between he and I. Yes, I was in Philly meeting with leaders, many leaders in many communities, but including leaders in the Puerto Rican community, to talk with them about my long standing commitment to Puerto Rico, to the people who live on that island, who have often been overlooked. In fact they know, and we talked about the fact that even when I was in the United States Senate, knowing Puerto Rico doesn't have its own United States Senator, I was a leader in making sure that we would get really leave to people on the island when it came to like the aftermath of Hurricane Maria. And what I shared with everyone is part of my opportunity economy, as you know, which is about lifting up people around home ownership and small businesses. That I will have a specific opportunity economy task for Puerto Rico that will focus on the needs that they have in terms of fixing that electrical grid in Puerto Rico and also bringing private sector investment together with government investment and nonprofit investment onto the island to help with job creation and sustainability for the island.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 05:38\cb1 \
+\cb3 Speaker 5\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Now\'a0we\'a0VP\'a0Harris.\'a0This\'a0is\'a0Lauren\'a0and\'a0nice\'a0to\'a0meet\'a0you.\'a0We\'a0talk\'a0a\'a0lot\'a0up\'a0here\'a0about\'a0the\'a0black\'a0men\'a0conversation\'a0and\'a0the\'a0fact\'a0that\'a0people,\'a0you\'a0know,\'a0they\'a0keep\'a0trying\'a0to\'a0push\'a0this\'a0whole\'a0black\'a0men\'a0are\'a0not\'a0supporting\'a0Kamala\'a0Harris.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Now we VP Harris. This is Lauren and nice to meet you. We talk a lot up here about the black men conversation and the fact that people, you know, they keep trying to push this whole black men are not supporting Kamala Harris.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 05:49\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 That's\'a0a\'a0lot.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 That's a lot.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 05:50\cb1 \
+\cb3 Speaker 5\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And\'a0my\'a0question\'a0to\'a0you\'a0is,\'a0is\'a0you\'a0know\'a0the\'a0fact\'a0that\'a0you\'a0know,\'a0even\'a0if\'a0it's\'a0a\'a0lie,\'a0people\'a0are\'a0still\'a0saying\'a0it.\'a0What\'a0is\'a0your\'a0strong\'a0push\'a0to\'a0any\'a0black\'a0man\'a0right\'a0now\'a0that\'a0feels\'a0like\'a0you're\'a0not\'a0speaking\'a0directly\'a0to\'a0them\'a0and\'a0about\'a0the\'a0things\'a0that\'a0they\'a0should\'a0care\'a0about\'a0for\'a0their\'a0families\'a0and\'a0for\'a0themselves.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 And my question to you is, is you know the fact that you know, even if it's a lie, people are still saying it. What is your strong push to any black man right now that feels like you're not speaking directly to them and about the things that they should care about for their families and for themselves.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 06:04\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Well,\'a0Lauren,\'a0I\'a0have\'a0to\'a0tell\'a0you\'a0back\'a0to\'a0what\'a0Charlemagne\'a0is\'a0shouting\'a0in\'a0the\'a0background,\'a0The\'a0brothers\'a0aren't\'a0saying\'a0that.\'a0I\'a0mean,\'a0I\'a0was\'a0just\'a0at\'a0the\'a0barbershop\'a0in\'a0Philly\'a0talking\'a0with\'a0very\'a0incredible\'a0and\'a0distinguished\'a0men\'a0who\'a0are\'a0leaders\'a0in\'a0their\'a0community\'a0in\'a0small\'a0business\'a0and\'a0education.\'a0And\'a0these\'a0men,\'a0these\'a0black\'a0men,\'a0were\'a0talking\'a0about\'a0not\'a0only\'a0their\'a0support\'a0for\'a0me,\'a0but\'a0most\'a0importantly,\'a0their\'a0support\'a0from\'a0my\'a0perspective,\'a0on\'a0what\'a0we\'a0can\'a0do\'a0that\'a0lifts\'a0up\'a0the\'a0community\'a0and\'a0taps\'a0into\'a0the\'a0ambitions\'a0and\'a0the\'a0aspiration.\'a0For\'a0example,\'a0the\'a0work\'a0that\'a0I\'a0will\'a0do\'a0that\'a0includes\'a0not\'a0only\'a0increasing\'a0access\'a0to\'a0capital\'a0for\'a0small\'a0businesses\'a0and\'a0minority\'a0owned\'a0small\'a0businesses,\'a0but\'a0part\'a0of\'a0my\'a0agenda\'a0includes\'a0a\'a0twenty\'a0thousand\'a0dollars\'a0forgivable\'a0loans\'a0for\'a0startup\'a0small\'a0businesses\'a0who\'a0are\'a0invariably\'a0gonna\'a0be\'a0the\'a0folks\'a0that\'a0you\'a0and\'a0I\'a0are\'a0now\'a0talking\'a0about\'a0who\'a0just\'a0need\'a0that\'a0startup\'a0help\'a0to\'a0be\'a0able\'a0to\'a0buy\'a0the\'a0equipment\'a0or\'a0to\'a0start\'a0up\'a0a\'a0meaningful\'a0website,\'a0you\'a0know,\'a0because\'a0it\'a0can't\'a0just\'a0be\'a0starting\'a0up\'a0a\'a0business\'a0and\'a0having\'a0your\'a0cousin\'a0set\'a0up\'a0your\'a0website,\'a0right,\'a0It's\'a0got\'a0to\'a0be\'a0something\'a0where\'a0it\'a0can\'a0actually\'a0help\'a0you\'a0access\'a0markets\'a0and\'a0customers.\'a0These\'a0are\'a0the\'a0kinds\'a0of\'a0things\'a0we\'a0talked\'a0about,\'a0and\'a0I\'a0will\'a0tell\'a0you\'a0at\'a0the\'a0rallies\'a0that\'a0I\'a0am\'a0doing\'a0where\'a0there\'a0are\'a0thousands\'a0of\'a0people.\'a0I\'a0just\'a0did\'a0a\'a0rally\'a0the\'a0other\'a0night.\'a0Thirty\'a0thousand\'a0people\'a0were\'a0there,\'a0and\'a0the\'a0number\'a0of\'a0people\'a0is\'a0cover\'a0the\'a0whole\'a0span\'a0of\'a0race,\'a0gender,\'a0and\'a0age.\'a0But\'a0the\'a0black\'a0men\'a0in\'a0particular\'a0who\'a0are\'a0at\'a0the\'a0rallies\'a0have\'a0recently\'a0been\'a0saying\'a0to\'a0me,\'a0don't\'a0you\'a0listen\'a0to\'a0that?\'a0And\'a0they\'a0got\'a0to\'a0stop\'a0with\'a0all\'a0that\'a0noise.\'a0We\'a0support\'a0you.\'a0So\'a0I'm\'a0glad\'a0you\'a0raised\'a0the\'a0topic\'a0so\'a0we\'a0could\'a0actually\'a0deal\'a0with\'a0the\'a0reality\'a0of\'a0it\'a0versus\'a0what\'a0some\'a0of\'a0the\'a0media\'a0is\'a0trying\'a0to\'a0create\'a0as\'a0a\'a0narrative.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Well, Lauren, I have to tell you back to what Charlemagne is shouting in the background, The brothers aren't saying that. I mean, I was just at the barbershop in Philly talking with very incredible and distinguished men who are leaders in their community in small business and education. And these men, these black men, were talking about not only their support for me, but most importantly, their support from my perspective, on what we can do that lifts up the community and taps into the ambitions and the aspiration. For example, the work that I will do that includes not only increasing access to capital for small businesses and minority owned small businesses, but part of my agenda includes a twenty thousand dollars forgivable loans for startup small businesses who are invariably gonna be the folks that you and I are now talking about who just need that startup help to be able to buy the equipment or to start up a meaningful website, you know, because it can't just be starting up a business and having your cousin set up your website, right, It's got to be something where it can actually help you access markets and customers. These are the kinds of things we talked about, and I will tell you at the rallies that I am doing where there are thousands of people. I just did a rally the other night. Thirty thousand people were there, and the number of people is cover the whole span of race, gender, and age. But the black men in particular who are at the rallies have recently been saying to me, don't you listen to that? And they got to stop with all that noise. We support you. So I'm glad you raised the topic so we could actually deal with the reality of it versus what some of the media is trying to create as a narrative.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 07:48\cb1 \
+\cb3 Speaker 4\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We\'a0know,\'a0you\'a0know\'a0a\'a0poll\'a0came\'a0out\'a0yesterday\'a0that\'a0said\'a0as\'a0the\'a0ABC\'a0News\'a0poll,\'a0and\'a0it\'a0said\'a0that\'a0You're\'a0winning\'a0black\'a0men\'a0eighty\'a0five\'a0percent\'a0and\'a0out\'a0performing\'a0Biden\'a0by\'a0fourteen\'a0points\'a0of\'a0black\'a0men\'a0from\'a0twenty\'a0twenty.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 We know, you know a poll came out yesterday that said as the ABC News poll, and it said that You're winning black men eighty five percent and out performing Biden by fourteen points of black men from twenty twenty.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 07:58\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So\'a0yeah,\'a0I\'a0mean\'a0listen,\'a0because\'a0I\'a0think\'a0listen.\'a0I\'a0have\'a0said\'a0from\'a0the\'a0very\'a0beginning\'a0black\'a0men\'a0are\'a0no\'a0different\'a0than\'a0any\'a0other\'a0voter.\'a0You\'a0have\'a0to\'a0earn\'a0their\'a0vote.\'a0And\'a0part\'a0of\'a0the\'a0challenge,\'a0I\'a0think\'a0with\'a0the\'a0perspective\'a0in\'a0this\'a0narrative\'a0has\'a0been\'a0to\'a0suggest\'a0anybody's\'a0got\'a0black\'a0men\'a0in\'a0their\'a0pocket.\'a0No,\'a0you\'a0have\'a0to\'a0earn\'a0the\'a0vote.\'a0Which\'a0is\'a0why\'a0I've\'a0been\'a0out\'a0talking\'a0with\'a0folks\'a0about\'a0not\'a0only\'a0my\'a0history\'a0of\'a0work\'a0that\'a0has\'a0had\'a0a\'a0positive\'a0impact,\'a0but\'a0also\'a0the\'a0work\'a0that\'a0has\'a0yet\'a0to\'a0be\'a0done\'a0again\'a0around\'a0lifting\'a0up\'a0the\'a0economic\'a0situation,\'a0helping\'a0young\'a0fathers\'a0with\'a0what\'a0they\'a0want\'a0to\'a0do\'a0to\'a0parent\'a0their\'a0children\'a0with\'a0an\'a0extension\'a0of\'a0the\'a0child\'a0tax\'a0credit\'a0to\'a0six\'a0thousand\'a0dollars\'a0for\'a0the\'a0first\'a0year\'a0of\'a0their\'a0child's\'a0life.\'a0What\'a0I\'a0intend\'a0to\'a0do\'a0that\'a0is\'a0about\'a0tapping\'a0into\'a0the\'a0desire\'a0for\'a0home\'a0ownership\'a0and\'a0a\'a0twenty\'a0five\'a0thousand\'a0dollars\'a0down\'a0payment\'a0assistance\'a0for\'a0first\'a0time\'a0home\'a0buyers.\'a0And\'a0that's\'a0why\'a0those\'a0numbers\'a0are\'a0eighty\'a0five\'a0percent,\'a0Charlemagne,\'a0because\'a0folks\'a0know\'a0I\'a0have\'a0a\'a0genuine\'a0commitment\'a0based\'a0on\'a0hard\'a0work\'a0that\'a0I\'a0have\'a0already\'a0done\'a0to\'a0lift\'a0up\'a0the\'a0community.\'a0Versus\'a0to\'a0your\'a0point,\'a0Donald\'a0Trump\'a0and\'a0Madison\'a0Square\'a0Garden\'a0last\'a0night\'a0with\'a0all\'a0those\'a0tropes.\'a0Versus\'a0Donald\'a0Trump,\'a0who\'a0took\'a0out\'a0a\'a0full\'a0page\'a0ad\'a0in\'a0the\'a0New\'a0York\'a0Times\'a0for\'a0the\'a0Central\'a0Park\'a0thoughts\'a0suggesting\'a0that\'a0these\'a0young\'a0black\'a0and\'a0brown\'a0and\'a0they\'a0were\'a0not\'a0young\'a0men,\'a0they\'a0were\'a0children,\'a0should\'a0be\'a0executed.\'a0Donald\'a0Trump,\'a0who\'a0in\'a0New\'a0York\'a0as\'a0a\'a0landlord,\'a0refused\'a0to\'a0rent\'a0to\'a0black\'a0families.\'a0Donald\'a0Trump,\'a0who\'a0called\'a0the\'a0first\'a0black\'a0president,\'a0called\'a0him\'a0out\'a0and\'a0suggested\'a0he\'a0was\'a0not\'a0born\'a0in\'a0the\'a0United\'a0States,\'a0and\'a0then\'a0most\'a0recently\'a0referred\'a0to\'a0black\'a0legal\'a0immigrants\'a0in\'a0Ohio\'a0as\'a0though\'a0they're\'a0eating\'a0their\'a0pets.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 So yeah, I mean listen, because I think listen. I have said from the very beginning black men are no different than any other voter. You have to earn their vote. And part of the challenge, I think with the perspective in this narrative has been to suggest anybody's got black men in their pocket. No, you have to earn the vote. Which is why I've been out talking with folks about not only my history of work that has had a positive impact, but also the work that has yet to be done again around lifting up the economic situation, helping young fathers with what they want to do to parent their children with an extension of the child tax credit to six thousand dollars for the first year of their child's life. What I intend to do that is about tapping into the desire for home ownership and a twenty five thousand dollars down payment assistance for first time home buyers. And that's why those numbers are eighty five percent, Charlemagne, because folks know I have a genuine commitment based on hard work that I have already done to lift up the community. Versus to your point, Donald Trump and Madison Square Garden last night with all those tropes. Versus Donald Trump, who took out a full page ad in the New York Times for the Central Park thoughts suggesting that these young black and brown and they were not young men, they were children, should be executed. Donald Trump, who in New York as a landlord, refused to rent to black families. Donald Trump, who called the first black president, called him out and suggested he was not born in the United States, and then most recently referred to black legal immigrants in Ohio as though they're eating their pets.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 09:41\cb1 \
+\cb3 Speaker 3\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 That's\'a0right,\'a0absolutely.\'a0I\'a0was\'a0going\'a0to\'a0ask,\'a0you\'a0know,\'a0we\'a0see\'a0the\'a0support\'a0you\'a0have\'a0with\'a0small\'a0businesses,\'a0We\'a0see\'a0the\'a0support\'a0you\'a0have\'a0with\'a0HBCUs.\'a0We\'a0even\'a0see\'a0the\'a0home\'a0buying\'a0voucher\'a0that\'a0is\'a0there\'a0to\'a0help\'a0especially\'a0our\'a0community\'a0get\'a0into\'a0our\'a0homes.\'a0What\'a0is\'a0your\'a0message\'a0to\'a0these\'a0undecided\'a0voters\'a0that\'a0are\'a0right\'a0now\'a0we're\'a0a\'a0week\'a0away\'a0that\'a0still\'a0don't\'a0know\'a0which\'a0way\'a0they\'a0want\'a0to\'a0go\'a0in\'a0and\'a0everything\'a0that\'a0you're\'a0trying\'a0to\'a0do\'a0that's\'a0positive,\'a0They\'a0say,\'a0Well,\'a0the\'a0home\'a0buying\'a0vouch\'a0is\'a0just\'a0going\'a0to\'a0make\'a0people\'a0a\'a0charge\'a0more\'a0money\'a0for\'a0houses\'a0and\'a0hbcuses\'a0for\'a0this\'a0and\'a0for\'a0that.\'a0What\'a0do\'a0you\'a0say\'a0to\'a0those\'a0undecided\'a0voters\'a0right\'a0now\'a0that\'a0we're\'a0a\'a0week\'a0away?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 That's right, absolutely. I was going to ask, you know, we see the support you have with small businesses, We see the support you have with HBCUs. We even see the home buying voucher that is there to help especially our community get into our homes. What is your message to these undecided voters that are right now we're a week away that still don't know which way they want to go in and everything that you're trying to do that's positive, They say, Well, the home buying vouch is just going to make people a charge more money for houses and hbcuses for this and for that. What do you say to those undecided voters right now that we're a week away?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:12\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So\'a0first\'a0of\'a0all,\'a0please\'a0go.\'a0You\'a0know,\'a0I'm\'a0gonna\'a0throw\'a0out\'a0my\'a0website\'a0DJM\'a0because\'a0people\'a0have\'a0to\'a0be\'a0able\'a0to\'a0see\'a0it\'a0and\'a0read\'a0it\'a0for\'a0themselves\'a0and\'a0take\'a0their\'a0time\'a0with\'a0it.\'a0For\'a0those\'a0who\'a0are\'a0interested\'a0and\'a0want\'a0to\'a0be\'a0more\'a0informed,\'a0and\'a0if\'a0I\'a0haven't\'a0had\'a0a\'a0chance\'a0to\'a0meet\'a0with\'a0them\'a0and\'a0talk\'a0with\'a0them\'a0directly,\'a0I\'a0invite\'a0you,\'a0in\'a0your\'a0busy\'a0lives\'a0if\'a0you\'a0can\'a0take\'a0some\'a0time\'a0to\'a0look\'a0at\'a0my\'a0website\'a0KamalaHarris\'a0dot\'a0com\'a0and\'a0look\'a0at\'a0my\'a0policies.\'a0For\'a0example,\'a0twenty\'a0five\'a0thousand\'a0dollars\'a0down\'a0payment\'a0assistance\'a0for\'a0first\'a0time\'a0home\'a0buyers.\'a0Let\'a0me\'a0tell\'a0you\'a0why\'a0that's\'a0not\'a0gonna\'a0that's\'a0not\'a0going\'a0to\'a0have\'a0an\'a0unintended\'a0effect\'a0because\'a0that\'a0increases\'a0the\'a0demand\'a0for\'a0home\'a0ownership,\'a0which\'a0is\'a0going\'a0to\'a0have\'a0an\'a0impact\'a0also\'a0on\'a0supply.\'a0What\'a0we\'a0are\'a0My\'a0part\'a0of\'a0my\'a0plan\'a0is\'a0you\'a0know.\'a0I've\'a0been\'a0in\'a0public\'a0service\'a0my\'a0entire\'a0career,\'a0but\'a0I\'a0know\'a0the\'a0limitations\'a0of\'a0government.\'a0So\'a0part\'a0of\'a0my\'a0plan\'a0for\'a0affordable\'a0housing\'a0is\'a0to\'a0work\'a0with\'a0home\'a0builders\'a0and\'a0developers\'a0to\'a0give\'a0them\'a0tax\'a0credits\'a0to\'a0create\'a0incentives\'a0for\'a0them\'a0to\'a0build\'a0more\'a0homes.\'a0But\'a0I'm\'a0gonna\'a0tell\'a0you\'a0another\'a0part\'a0of\'a0my\'a0perspective\'a0on\'a0this.\'a0I\'a0also\'a0know\'a0that,\'a0in\'a0particular\'a0for\'a0high\'a0rent,\'a0a\'a0lot\'a0of\'a0it\'a0has\'a0to\'a0do\'a0with\'a0corporate\'a0corporations\'a0that\'a0are\'a0buying\'a0up\'a0all\'a0this\'a0housing\'a0and\'a0then\'a0eliminating\'a0competition\'a0and\'a0jacking\'a0up\'a0rents.\'a0And\'a0part\'a0of\'a0my\'a0plan\'a0is\'a0to\'a0also\'a0go\'a0after\'a0them.\'a0Similarly,\'a0on\'a0the\'a0price\'a0of\'a0groceries,\'a0you\'a0and\'a0I\'a0both\'a0know\'a0it's\'a0still\'a0too\'a0high.\'a0I'm\'a0going\'a0to\'a0go\'a0after\'a0price\'a0gouging,\'a0which\'a0is\'a0those\'a0bad\'a0corporations\'a0that\'a0are\'a0jacking\'a0up\'a0the\'a0price\'a0of\'a0everyday\'a0necessities\'a0folks,\'a0especially\'a0those\'a0who\'a0are,\'a0for\'a0example,\'a0in\'a0the\'a0zone\'a0of\'a0Hurricane\'a0Helen\'a0and\'a0other\'a0places\'a0that\'a0have\'a0experienced\'a0extreme\'a0emergencies,\'a0and\'a0those\'a0bad\'a0corporations,\'a0and\'a0most\'a0of\'a0them\'a0are\'a0not\'a0but\'a0those\'a0that\'a0will\'a0take\'a0advantage\'a0of\'a0the\'a0desperation\'a0of\'a0people\'a0in\'a0need.\'a0So\'a0these\'a0are\'a0the\'a0examples,\'a0and\'a0I\'a0will\'a0tell\'a0you.\'a0Look,\'a0I'm\'a0about\'a0to\'a0give\'a0a\'a0speech\'a0Tuesday\'a0night\'a0at\'a0the\'a0ellipse\'a0in\'a0front\'a0of\'a0the\'a0White\'a0House.\'a0And\'a0part\'a0of\'a0what\'a0I\'a0will\'a0be\'a0talking\'a0about\'a0is\'a0that\'a0there\'a0is\'a0going\'a0to\'a0be\'a0a\'a0new\'a0president\'a0on\'a0January\'a0twentieth\'a0of\'a0next\'a0year,\'a0and\'a0it's\'a0either\'a0gonna\'a0be\'a0Donald\'a0Trump\'a0or\'a0it's\'a0going\'a0to\'a0be\'a0me.\'a0And\'a0I\'a0would\'a0ask\'a0people\'a0to\'a0imagine\'a0the\'a0Oval\'a0Office.\'a0People\'a0have\'a0seen\'a0it\'a0on\'a0TV.\'a0You\'a0know\'a0what\'a0it\'a0looks\'a0like.\'a0It's\'a0either\'a0going\'a0to\'a0be\'a0Donald\'a0Trump\'a0sitting\'a0behind\'a0that\'a0desk\'a0writing\'a0out\'a0his\'a0enemies\'a0list\'a0of\'a0who\'a0he's\'a0going\'a0to\'a0seek\'a0revenge\'a0and\'a0retribution\'a0on,\'a0or\'a0it's\'a0gonna\'a0be\'a0me\'a0working\'a0on\'a0behalf\'a0of\'a0the\'a0American\'a0people,\'a0as\'a0I\'a0always\'a0have\'a0done,\'a0working\'a0on\'a0my\'a0to\'a0do\'a0list,\'a0to\'a0see\'a0through\'a0these\'a0policies\'a0that\'a0are\'a0about\'a0home\'a0ownership,\'a0lifting\'a0up\'a0our\'a0small\'a0businesses,\'a0lifting\'a0up\'a0families\'a0with\'a0children,\'a0and\'a0lifting\'a0up\'a0the\'a0discourse\'a0in\'a0a\'a0way\'a0that\'a0it\'a0is\'a0not\'a0about\'a0trashing\'a0people\'a0all\'a0the\'a0time,\'a0which\'a0is\'a0why,\'a0you\'a0know,\'a0even\'a0back\'a0to\'a0the\'a0point\'a0of\'a0Puerto\'a0Rico,\'a0Bad\'a0Bunny\'a0is\'a0endorsed\'a0me,\'a0right,\'a0he\'a0knows\'a0and\'a0Jennifer\'a0Lopez\'a0and\'a0they\'a0love\'a0Puerto\'a0Rico\'a0and\'a0they\'a0are\'a0proud\'a0in\'a0terms\'a0of\'a0that\'a0heritage,\'a0and\'a0they\'a0know\'a0how\'a0demeaning\'a0and\'a0destructive\'a0Donald\'a0Trump\'a0can\'a0be\'a0on\'a0things\'a0like\'a0that.\'a0I'm\'a0proud\'a0to\'a0have\'a0the\'a0support\'a0of\'a0the\'a0kinds\'a0of\'a0people\'a0not\'a0like\'a0those\'a0that\'a0Donald\'a0Trump's\'a0rally\'a0yesterday\'a0Madison\'a0Square\'a0Garden,\'a0the\'a0people\'a0supporting\'a0me\'a0Bad\'a0Bunny\'a0Fat,\'a0Joe,\'a0Quavo,\'a0Beyonce,\'a0Kelly\'a0Rowland,\'a0and\'a0I\'a0could\'a0go\'a0on\'a0down\'a0the\'a0list.\'a0So\'a0I'd\'a0invite\'a0people\'a0to\'a0just\'a0look\'a0at\'a0who\'a0is\'a0supporting\'a0who\'a0at\'a0one\'a0measure\'a0of\'a0who\'a0cares\'a0about\'a0who.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 So first of all, please go. You know, I'm gonna throw out my website DJM because people have to be able to see it and read it for themselves and take their time with it. For those who are interested and want to be more informed, and if I haven't had a chance to meet with them and talk with them directly, I invite you, in your busy lives if you can take some time to look at my website KamalaHarris dot com and look at my policies. For example, twenty five thousand dollars down payment assistance for first time home buyers. Let me tell you why that's not gonna that's not going to have an unintended effect because that increases the demand for home ownership, which is going to have an impact also on supply. What we are My part of my plan is you know. I've been in public service my entire career, but I know the limitations of government. So part of my plan for affordable housing is to work with home builders and developers to give them tax credits to create incentives for them to build more homes. But I'm gonna tell you another part of my perspective on this. I also know that, in particular for high rent, a lot of it has to do with corporate corporations that are buying up all this housing and then eliminating competition and jacking up rents. And part of my plan is to also go after them. Similarly, on the price of groceries, you and I both know it's still too high. I'm going to go after price gouging, which is those bad corporations that are jacking up the price of everyday necessities folks, especially those who are, for example, in the zone of Hurricane Helen and other places that have experienced extreme emergencies, and those bad corporations, and most of them are not but those that will take advantage of the desperation of people in need. So these are the examples, and I will tell you. Look, I'm about to give a speech Tuesday night at the ellipse in front of the White House. And part of what I will be talking about is that there is going to be a new president on January twentieth of next year, and it's either gonna be Donald Trump or it's going to be me. And I would ask people to imagine the Oval Office. People have seen it on TV. You know what it looks like. It's either going to be Donald Trump sitting behind that desk writing out his enemies list of who he's going to seek revenge and retribution on, or it's gonna be me working on behalf of the American people, as I always have done, working on my to do list, to see through these policies that are about home ownership, lifting up our small businesses, lifting up families with children, and lifting up the discourse in a way that it is not about trashing people all the time, which is why, you know, even back to the point of Puerto Rico, Bad Bunny is endorsed me, right, he knows and Jennifer Lopez and they love Puerto Rico and they are proud in terms of that heritage, and they know how demeaning and destructive Donald Trump can be on things like that. I'm proud to have the support of the kinds of people not like those that Donald Trump's rally yesterday Madison Square Garden, the people supporting me Bad Bunny Fat, Joe, Quavo, Beyonce, Kelly Rowland, and I could go on down the list. So I'd invite people to just look at who is supporting who at one measure of who cares about who.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:35\cb1 \
+\cb3 Speaker 4\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 How\'a0do\'a0you\'a0feel,\'a0Madame\'a0Vice\'a0President,\'a0about\'a0these\'a0major\'a0publications\'a0like\'a0the\'a0LA\'a0Times,\'a0the\'a0Washington\'a0polls\'a0refusing\'a0then\'a0doing\'a0somebody.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 How do you feel, Madame Vice President, about these major publications like the LA Times, the Washington polls refusing then doing somebody.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:42\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 For\'a0president,\'a0you\'a0know,\'a0Charlemagne.\'a0It's\'a0disappointing,\'a0no\'a0doubt.\'a0But\'a0the\'a0other\'a0piece\'a0of\'a0it\'a0is\'a0it\'a0gets\'a0back\'a0to\'a0my\'a0point\'a0about\'a0who\'a0is\'a0Donald\'a0Trump?\'a0Because\'a0he\'a0is\'a0the\'a0one\'a0right\'a0who\'a0is\'a0up\'a0for\'a0election\'a0with\'a0me,\'a0and\'a0you\'a0know\'a0he\'a0he\'a0I\'a0think\'a0that\'a0some\'a0of\'a0your\'a0listeners\'a0they\'a0know\'a0and\'a0others\'a0may\'a0not.\'a0Which\'a0is\'a0that.\'a0Look,\'a0it's\'a0billionaires\'a0in\'a0Donald\'a0Trump's\'a0clubs.\'a0That's\'a0who's\'a0in\'a0his\'a0clubs.\'a0That's\'a0who\'a0he\'a0hangs\'a0out\'a0with,\'a0That's\'a0who\'a0he\'a0cares\'a0about.\'a0That's\'a0why\'a0when\'a0he\'a0was\'a0last\'a0president,\'a0he\'a0put\'a0in\'a0a\'a0place\'a0a\'a0massive\'a0tax\'a0cut\'a0for\'a0billionaires\'a0in\'a0the\'a0biggest\'a0corporations,\'a0and\'a0that\'a0is\'a0exactly\'a0what\'a0he\'a0will\'a0do\'a0again.\'a0His\'a0policies\'a0are\'a0not\'a0about\'a0middle\'a0class\'a0folks.\'a0He's\'a0not\'a0sitting\'a0around\'a0thinking\'a0about\'a0what\'a0he\'a0can\'a0do\'a0to\'a0take\'a0care\'a0of\'a0your\'a0grandmother\'a0and\'a0your\'a0grandfather.\'a0He's\'a0thinking\'a0about\'a0people\'a0like\'a0himself\'a0or\'a0himself\'a0and\'a0all\'a0of\'a0his\'a0grievances\'a0and\'a0all\'a0that\'a0makes\'a0him\'a0angry\'a0about\'a0how\'a0he\'a0has\'a0personally\'a0been\'a0treated,\'a0as\'a0opposed\'a0to\'a0worrying\'a0about\'a0how\'a0you\'a0have\'a0been\'a0treated\'a0and\'a0what\'a0his\'a0responsibility\'a0is\'a0to\'a0lift\'a0you\'a0up.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 For president, you know, Charlemagne. It's disappointing, no doubt. But the other piece of it is it gets back to my point about who is Donald Trump? Because he is the one right who is up for election with me, and you know he he I think that some of your listeners they know and others may not. Which is that. Look, it's billionaires in Donald Trump's clubs. That's who's in his clubs. That's who he hangs out with, That's who he cares about. That's why when he was last president, he put in a place a massive tax cut for billionaires in the biggest corporations, and that is exactly what he will do again. His policies are not about middle class folks. He's not sitting around thinking about what he can do to take care of your grandmother and your grandfather. He's thinking about people like himself or himself and all of his grievances and all that makes him angry about how he has personally been treated, as opposed to worrying about how you have been treated and what his responsibility is to lift you up.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:50\cb1 \
+\cb3 Speaker 3\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Well,\'a0Mad\'a0and\'a0Vice\'a0President,\'a0we\'a0appreciate\'a0it.\'a0I\'a0know\'a0you\'a0got\'a0calls\'a0to\'a0making\'a0things\'a0to\'a0do\'a0today.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Well, Mad and Vice President, we appreciate it. I know you got calls to making things to do today.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:54\cb1 \
+\cb3 Speaker 4\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I\'a0do\'a0have\'a0one\'a0last\'a0quick\'a0question,\'a0though,\'a0how\'a0often\'a0do\'a0you\'a0say\'a0to\'a0yourself,\'a0man,\'a0fuck\'a0Donald\'a0Trump?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 I do have one last quick question, though, how often do you say to yourself, man, fuck Donald Trump?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:00\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 You\'a0know?\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 You know?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:08\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Let\'a0me\'a0tell\'a0you\'a0actually\'a0that\'a0my\'a0focus\'a0and\'a0honestly\'a0more\'a0is\'a0on\'a0I\'a0just\'a0love\'a0I\'a0love\'a0the\'a0American\'a0people,\'a0and\'a0I\'a0you\'a0know\'a0that\'a0people\'a0are\'a0taking\'a0time\'a0out\'a0of\'a0their\'a0so\'a0busy\'a0lives\'a0with\'a0all\'a0their\'a0demands\'a0to\'a0take\'a0the\'a0time\'a0to\'a0vote,\'a0to\'a0stand\'a0in\'a0line,\'a0especially\'a0in\'a0those\'a0places\'a0where\'a0their\'a0state\'a0leaders\'a0have\'a0tried\'a0to\'a0make\'a0it\'a0more\'a0difficult\'a0for\'a0them\'a0to\'a0vote.\'a0That's\'a0that's\'a0really\'a0where\'a0I\'a0spend\'a0my\'a0time.\'a0And\'a0the\'a0contrast\'a0point\'a0is\'a0really\'a0about\'a0that\'a0they\'a0deserve\'a0better.\'a0They\'a0deserve\'a0better,\'a0They\'a0deserve\'a0a\'a0president\'a0who\'a0actually\'a0cares.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Let me tell you actually that my focus and honestly more is on I just love I love the American people, and I you know that people are taking time out of their so busy lives with all their demands to take the time to vote, to stand in line, especially in those places where their state leaders have tried to make it more difficult for them to vote. That's that's really where I spend my time. And the contrast point is really about that they deserve better. They deserve better, They deserve a president who actually cares.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:45\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 For\'a0checking\'a0appreciate\'a0you\'a0a\'a0week\'a0away.\'a0Everybody\'a0got\'a0there.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 For checking appreciate you a week away. Everybody got there.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:50\cb1 \
+\cb3 Speaker 2\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Okay\'a0TOAK,\'a0y'allsam,\'a0thank\'a0you.\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Okay TOAK, y'allsam, thank you.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:53\cb1 \
+\cb3 Speaker 1\cb1 \
+\pard\pardeftab720\sa168\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Wake\'a0that\'a0answer\'a0in\'a0the\'a0morning\'a0Breakfast\'a0Club\cb1 \
+}

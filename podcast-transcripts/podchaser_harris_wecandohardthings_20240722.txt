@@ -1,0 +1,6074 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Arial-BoldMT;\f1\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;\red252\green252\blue252;}
+{\*\expandedcolortbl;;\cssrgb\c13333\c13333\c13333;\cssrgb\c99216\c99216\c99216;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs21 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 0:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 At the 2020 Tokyo Olympics, Simone\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Biles was one of the biggest\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 stories leading into the games. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in sport, as in life, competitions do not\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 always go as planned. The\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 world saw Simone bravely step\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 back, prioritizing her\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 mental health over competition. In\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her new Netflix series, you will\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 get an exclusive inside look into\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Simone's life as she confronts her\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 past trauma, rebuilds her gymnastics skills, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 learns to manage her well-being. It's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a journey of overcoming adversity and rediscovering\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her love for the sport. This\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 series pulls back the curtain on the real\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Simone, the human behind the medals. She\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 allowed production to go behind the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 scenes during training and competition, providing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 real-time reactions. Simone has\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 accomplished so much for herself and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for the sport and for the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 whole country, and she deserves her\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 accolades. The series is a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 celebration of all that Simone\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 has overcome and how she continues\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 0:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to rise through it all. Simone\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Biles Rising. Series\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 premiere July 17th on Netflix.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 You don't need to break the bank on your\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 next grocery store trip to get the quality products\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that you want. When it comes to food shopping,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Whole Foods Market is here to help you save\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 money and elevate your grocery shopping while still staying\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on budget. It's as easy as one, two, three.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 One, check out their weekly sales at\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Whole Foods Market dot com. It gets\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 refreshed every Wednesday so you always know\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 where the savings are. Two, remember to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 look for 365 buy Whole Foods Market\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 items throughout the store. Their store\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 brand has all the quality you expect from Whole\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Foods Market at prices your wallet will love. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you'll find these items all over the store.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Three, just walk the store and look for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 those little yellow signs that mention low price.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 You'll find them in every department. For\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 example, there's one next to the responsibly farmed\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 salmon in the seafood department. There are so\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 many ways to save at Whole Foods Market.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 1:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Now you know. Huh?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Yesterday, President\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Biden announced that for the good of the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 nation, he would not remain in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the race for the presidency. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 instead he offered his full support\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and endorsement of Vice President Kamala\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Harris to be the Democratic nominee\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for president. He\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 said in his announcement that choosing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her as VP was his first\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and best decision. A\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 wave of Democratic leadership followed in endorsing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Kamala Harris as the nominee. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 she expressed her gratitude and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 expressed that it is her intention\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to earn and win the Democratic\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 nomination. Although\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we do not yet know the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 precise path through which Kamala Harris\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 will fight for, earn, and win\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the Democratic nomination, one\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 thing is clear. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 stand unequivocally in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 enthusiastic, grateful support\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 2:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of Kamala Harris for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 president. As we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 look ahead with new energy\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and excitement toward the grave\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 magnitude and historic hope of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the next 107 days,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we are also looking back to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a conversation we had with Kamala Harris\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 last year on what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 would have been the 50th\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 anniversary of Roe v. Wade.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Kamala Harris has fought tirelessly to defend\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a woman's right to not have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the government make decisions about her\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 body. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we must now fight for her as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the woman who should lead this nation.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 As she encourages all of us in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this episode, shoulders\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 back, chin up. All\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 right y'all, shoulders back, chin\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 up. Get in.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 3:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We have an election to win. The\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 fact that you're doing this with us\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is just... Are you kidding? Seriously, you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know, there's so much about this issue\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that has to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be about all of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 us reminding people\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they're not alone. Yes. The\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 way you have constructed this show,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this thing you've done,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's very accessible. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in the privacy and the quiet of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 their own moment, whatever that might be,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 while they're taking a walk or they're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 jogging or they're working or they're driving.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And I think that's really critically important\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 because there's so much stuff out there,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 disinformation, misinformation,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 judgment that is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 causing people... And then after\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 years of a pandemic, causing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people to feel very alone. Yes. When\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you feel alone, when people feel alone, it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 4:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 makes them feel small. It's very\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 disempowering. And when we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 can remind them they're not alone and they're part of a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 community that cares about them, it's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 empowering. It's a hug,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 but it's more than a hug. Like, whoever\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 lifts you up. Yes. Get up out\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of that chair, shoulders back,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 chin up. Yeah. Well,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we are dumbfounded with excitement and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 gratitude today because we have the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 absolute honor to be in conversation\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with a woman who can, has,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and will continue to do very hard things.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Yeah. Vice President Kamala\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Harris. Vice President\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Harris is the highest ranking elected\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 woman in US history, the first\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 South Asian American Senator and the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 first woman or black American to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be the California Attorney General. Yet,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 among all her titles, she\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 most cherishes the honor of being\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the daughter of Shyamala Gopalan Harris,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 5:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 who taught her to never back down. from\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a righteous fight. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 thank God for that because she is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 leading what we believe to be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the movement of our generation, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 movement for reproductive justice. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 she is inviting all of us\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to join her. Thank you,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 thank you for being with us, Vice President\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Harris. It is my joy and honor. Thank\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you and thank you for your voice, for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 all of you. This is a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 moment for all\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of us to understand our\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 power as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 an extension of our rights and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to join together in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 sisterhood and fellowship among all\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people, regardless of gender, to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 speak up. So thank\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you, it's great to be with you guys. You do it all the time,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you speak up all the time. Thank you. This\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 weekend would have been the 50th\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 anniversary of Roe, which\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 held that our\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 6:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 constitutional right to privacy included abortion.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And this protection allowed us to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 control our own bodies, plan\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 our own families, and make the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 futures of our choosing. In\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Dobbs, the court eviscerated that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 liberty with a stroke of a pen. When\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the three of us heard that, we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 were stunned, grieved,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 terrified, and we called\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 each other first. How\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 did you feel when\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you heard the news and who did\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you call first? So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I was on my way that day\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to Illinois to be with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Congress member Lauren Underwood to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 continue the work that we have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 been doing together and before that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I'd been doing on maternal mortality.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So I was on my way to do the work of highlighting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 one of the great\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 7:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 long-standing people. issues in our country,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 which is that women are unnecessarily dying\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in connection with childbirth, with a particular\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 impact on black women who are three\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 times more likely to die, Native women,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 twice as likely to die, rural women one and a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 half times more likely to die. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the decision came down and I called\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 my husband immediately because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 he's about the only person I could call\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with the fuhrer. Yes. That\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I had in a most\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 unrestrained way with language that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 did honor to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that. Yes, the correct language for the moment. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 well pronounced. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I just, you know, I've\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 seen a lot. I, in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 many ways, there is very little that surprises\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 me, but I was shocked. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 knew from the leaked opinion that it was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 8:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 likely to happen. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 when something actually does happen,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that is so outrageous. And,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and, you know, in the contrast for me that day,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 when I heard about it was, here\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I am going to work on\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 an issue that has been long ignored. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the hypocrisy. Of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 these people who portend\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and put themselves out as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 caring about the sanctity of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 life, but have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 been wholly absent in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 those numbers when it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 comes to the fact that women are dying\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 every day in America in connection\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with childbirth. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 there were many layers to how I was feeling\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 at that moment. And, you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know, but it's also one of those moments\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that we just resolve.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Okay, got it. We're gonna have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to fight. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 9:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 right after. After Roe was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 overturned, you hit the road to meet\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with everyday citizens and activists\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and state lawmakers in red,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 blue, and swing states to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 witness and understand the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 real personal impact of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the reversal of Roe. How\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are people already being hurt by\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this? In\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 profound ways. Let's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 start with just if\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we can pull back the subject at hand. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 among the many roots,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you will, that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are part of this issue in terms of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what's behind it, it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is the judgment\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that has existed probably since the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 beginning of time about women's sexuality.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I love that we're going here. Yes.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 10:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Right? Yes, let's do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it. And then the associated judgment\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that is designed to make\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her feel bad and or\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 embarrassed and or\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in some way subversive or an\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 outcast. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the net effect of that on this\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 issue and many other associated, but\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on the issue of abortion\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 or an unwanted pregnancy is to make\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her feel as though she did something\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 wrong. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so I say\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this as maybe a long way of saying God\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 only knows the stories we don't know. Because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 those people are not telling their\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 stories because they feel so and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 then what is the word? It might be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 embarrassed. They might feel that they will be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 judged. They might feel they've done something wrong\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 11:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and they will therefore silently suffer.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And the stories have been the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 story of, for example, the tragedy\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of the 10-year-old girl who\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was molested and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 had to leave the state of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Ohio to seek help\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in another state. The\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 doctor in that state who I have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 talked with is now, has\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 been facing threats to her life and is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 now facing a threat that she may lose\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her medical license. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 let me tell you something, I, for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a large part of my career as a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 prosecutor, specialized in violence\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 against women and children. The\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 idea that there would be laws\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 being passed like\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in Florida where I'm about to go, that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 would make no exception for rape or\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 incest is immoral.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 12:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Because again, let's break it down. What\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 has happened to that individual is that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 their body has been violated. They\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have been denied the ability to have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 power over their own body to decide\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 whether they want to engage in this\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 act. It\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is one of the most horrendous crimes\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 because of the outrageous nature of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the act, which\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is a violation of someone's body. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 then so-called leaders,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 sanctimonious, are\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 suggesting that, and after that has\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 happened, you who has endured and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 survived that act will\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not have a choice over what happens to your body if\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you choose or need to have an abortion.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Compounding the very violation\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that is about bodily autonomy and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the right all people should have to live\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in a way that allows them to make\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 certain fundamental decisions about their\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 13:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 life. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 there are so many layers to this issue\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in terms of what makes these\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 proponents of dobs\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and these laws that are being passed\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 just wrong. Because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 here's the bottom line, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 government should not be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 telling people what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to do about their own bodies.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And one does not have to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 abandon their faith or\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 deeply held beliefs to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 agree the government should not be telling\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her what to do. Let\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her make that decision with her\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 priest or pastor or rabbi. Let\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her make that decision if she\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 chooses with her loved ones. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the government does\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not have a right to be making that decision\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for her. That\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is such an important piece\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 14:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of this to show that reproductive\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 justice is actually\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 religious liberty. Because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 as you said, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Jewish teachings, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 overturning of Roe violates thousands of years\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of teachings. One of the cases\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that went up with Roe was actually the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 opposite where the army was trying to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 tell a woman that she had to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 get an abortion to keep her job.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So it's the flip side of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the same coin. It has nothing to do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with the actual procedure. It's the choice of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what your body will and will not do. Exactly.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And the point\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that you are making that I think we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 all have to make repeatedly to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 all of our friends is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this movement about allowing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people to make this decision\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and choose for themselves is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not a movement to convert people in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 15:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 terms of their religious beliefs. This\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is not what that is. It\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is simply to say you do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what you believe and what your faith\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 dictates and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 leave the others to do what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 their faith and their beliefs dictate.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 That's right. And in that way,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it is such a fundamental point, which\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is about one of the foundational concepts\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and principles upon which our country was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 founded, freedom and liberty. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 say take back the flag on this issue. This\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is about freedom and liberty. Yes. Yes.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Right? That's right. I mean, what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we have learned from black and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 brown intersectional activists from the beginning\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is that reproductive justice doesn't have to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do with a particular law or a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 particular legislation. When we back up, as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Monica Ray Simpson of Sister Song says,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this is about full scale liberation. It is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about the ability to walk through the world\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and do what we must do and be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 16:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 safe in doing it. And I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 think if we all can understand that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about the full scale liberation that is the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 use and enjoyment of your life as you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 see it, everyone can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 get behind that. There's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a phrase for that, which is self-determination.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Yes. I've heard that. Right?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 What is that? How about that? Right?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 How about that? Self-determination.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 If we think about it again, going back\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to just the point\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about who are we as a country, what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do we stand for? What do we believe\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in? What was\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 our reason for being? It\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was about self-determination and freedom and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 liberty. It\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was about working against the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 idea that the government would be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 big brother and make decisions, fundamental\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 decisions for you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about your life and those things that are\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 17:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in particular the most private aspects of life.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 way of thinking of it is that individuals\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 should have the right to make decisions\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about the matters of heart and home.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So that's about who you marry. It's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about what you choose to do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 within the privacy of your home that is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not about hurting anyone else, but the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 choices that you rightly should\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have the ability to make, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 freedom to make. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 our homes are our bodies.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Yes! Our homes are our bodies.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Why learn a new language? Whether\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's for an upcoming international trip,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 connecting with family and friends, or\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 understanding new cultures, speaking another language\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 opens up endless possibilities.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Rosetta Stone, the trusted language\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 learning program for over 30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 18:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 years, offers immersive experiences in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 25 languages, including Spanish, French,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Italian, German, and more. With\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 built-in, true-accent speech\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 recognition, Rosetta Stone acts like\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a personal trainer for your\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 accent, providing feedback on pronunciation.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 It's convenient, too, with desktop and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 app options, audio companions, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 offline lesson downloads. Don't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 put off learning that language. There's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 no better time than right now to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 get started. For a very limited time,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We Can Do Hard Things listeners can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 get Rosetta Stone's lifetime membership for 50%\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 off. Visit rosettaestone.com/WeCan.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 That's 50% off unlimited access\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to 25 language courses for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the rest of your life. Redeem\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your 50% off at\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 19:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 rosettaestone.com slash We Can Today.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in your house in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the coziest covers ever.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Brooklinen is where it's at. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have just experienced their\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 incredible sheets, okay? Their\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 wash linen, that is an\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 amazing option. They also have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 crisp and cool classic percal,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 which is what I recently ordered and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is so smooth and beautiful. Also,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you're more of the lustrous\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 type, there are luxe satin sheets\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and they are just breezy and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 cozy and perfect. Start\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and dot your summer days\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 with the reviving comfort of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Brooklinen. Visit in-store online at\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 brooklinen.com. That's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 b-r-o-o-k-l-i-n-e-n.com.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And use the code HARDTHINGS for $20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 off your order of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 $100 or more. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 were talking about how\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 20:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this is the first time in history that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the Supreme Court has reversed itself to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 take back a constitutional right from\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the American people. And we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know this is not the end of that,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 but the beginning. So what will extremist Republicans\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do next to restrict our reproductive liberties? And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 will it include contraception\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and IVF? So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Clarence Thomas said\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the quiet part out loud. In\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the decision, in the Supreme Court\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Dobbs decision, Clarence Thomas\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 said the quiet part out loud, which this\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 calls into question the right\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to contraception and the right to marry the person\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you love. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so we should all take\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that very seriously. Thankfully,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Congress did on the second piece\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and we passed then a bill,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the Congress passed, which the president\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 21:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 quickly and joyfully signed into law.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 protecting the fundamental\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 right to marry the person you love. But\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the right to access contraception, I mean,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 literally, we should be understanding, and all\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people of any gender should be understanding.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Let's be clear about this. It is about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the decision that you should be able to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 make about whether or not you get pregnant\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 or whether or not you want to get\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 somebody else pregnant. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in that way, again, all genders\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 should be concerned about this. Speaking\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about being concerned about things, so\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 my sister just mentioned what Monica\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Rae Simpson said about reproductive justice.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Bayard Rustin, a queer key strategist in the 1960s\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 civil rights movement,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 said, we are all one, and if we don't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know it, we will learn the hard way. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know you've talked about the intersection between\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 voter suppression and abortion restrictions. If\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we care about abortion rights and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we don't want to keep learning the hard\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 22:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 way, who else must\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we care about? And what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 other issues do we need to make our own?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So I love\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Venn diagrams. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have heard. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 one day I might write a book.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I love Venn diagrams. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the three circles, right, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 how they overlap. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so on this issue, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that's about intersectionality, it's about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 also the beauty of understanding\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that the vast majority\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of us have so much more in common than what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 separates us. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 when we can see it,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 whoa, the opportunity for coalition\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 building and building community\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and reminding us we're not in this alone.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We're all in this together. Not\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to mention what I think should be the edict\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to all of us, which is to say no\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 23:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 one should ever be made to fight alone. Right?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We must stand up for each other.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 That's right. And the rights\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that each is entitled to. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on the Venn diagram, I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 asked my team, let's look at where\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the attacks are coming from. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 when we look at where the attacks are coming\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 from, what we find is that from the same\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 place that you see an attack on a woman's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 right to make decisions about her body, you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 will see attacks on voting rights, attacks\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on LGBTQ rights. If\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you want to put a fourth circle\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on there, it's an interesting exercise to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 then figure out who's engaged in book\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 bands. Right? And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what that should tell us is, again,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that there is a very\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 significant overlap in each\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 one of these fights. And these\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 24:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 fights, one might ask, what are they about? They're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about freedom. They're about liberty. They are\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 also about dignity. They're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about dignity. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the dignity to which each person\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is entitled as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 part of their existence should\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 not have to be earned as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 part of one's existence. One must\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be and should be entitled to dignity. Because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the dignity is not, no one\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is out there saying, this is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 an easy decision, willy-nilly. What\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they are saying is that it's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 precisely because this is such a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 difficult decision that it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is yours to make in consultation with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 whomever you trust. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that is why I believe\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's about dignity because it's about trustworthiness\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on this spectrum of who can make\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 25:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this decision. That's an excellent point. can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be trusted with this decision. And when you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 cannot be, we have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to pull back all those rights. Because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you, as a human, are not\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 as trustworthy as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this other set of humans who\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 presumably are, because as you have pointed\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 out, it's real hard to think\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of a law that limits\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a man's control over any\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 part of his body. I want to ask that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 question. Yes, I do remember that. That\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was a good moment for all of us. Yes. I've\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 only been replaying it almost every day. Yeah. You're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 spot on right. It's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about also looking\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 at, again, historical\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 precedents for this, sadly.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 But without going through\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 all the history on this, which is depriving,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for example, women of the ability to vote,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to own property, all kinds of things, right?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 26:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Let's put all of that aside. It is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 also, in the context, this issue\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of the fact that the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 trajectory of our nation, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 direction of our nation, has\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 hopefully always been about making\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 progress, progress\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 as defined by\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 many things, including the expansion\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of rights, not\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the restriction of rights.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 So what we have just experienced\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is a restriction of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 rights that had been\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 recognized by the highest\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 court in our land. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in that regard, I will say that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 as Vice\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 President of the United States, I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 meet with heads of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 state, foreign leaders, on\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a fairly regular basis. I've now met with over 100\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in-person, or by phone, presidents,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 27:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 prime ministers, chancellors, kings. When\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we as the United States of America\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 walk into those rooms to have those\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 conversations, we generally have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 been able to walk in, chin\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 up shoulders back, talking\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about the importance of democracy, human\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 rights, rule of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 law. And in that way,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we have presented ourselves as a role model\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of all of those things. Well,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the thing about being a role model, we all\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 know this, people watch\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what you do to see\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if it matches what you say. People\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 around the world are watching as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the highest court of our land just\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 took a constitutional right. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 my greatest fear is that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 autocrats and dictators around\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the world where their people are\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 fighting for rights and freedoms, let's talk about\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 women who are fighting all around the world\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for their rights and their\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 28:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 autonomy. But those\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 autocratic dictators can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 look at them and say, well, you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 want to hold out your friend, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 United States? Well, look what they just\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 did. You sit down. And in that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 way, we then appreciate\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that this issue, the way it has\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 gone down, will\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 impact not only the people of America, but\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 arguably people around the world, which\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 brings us back to our fight. Yes.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Because fighting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to stand up and speak out about it,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to remind the people\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 who are impacted that they are not\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 alone, to focus on what is happening\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in these various states and in the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 United States Congress will also be something\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that people around the world will watch.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And those folks who are aligned with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this fight will feel a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 sense of confidence that this\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 29:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is not over and we must continue to fight. Y'all,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's time to kick Summer up\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a notch with the hottest deals\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on DoorDash during Summer of Dash\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Pass. Summer of Dash Pass\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is back and better than ever. There\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 are five weeks of deals and exclusive\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 items you can... Summer\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 meets savings. Get ready for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 five weeks of deals during Summer of Dash\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Pass exclusively at DoorDash. That means\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that now through July 24th, you can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 enjoy amazing deals on all your summer\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 essentials like food from a local restaurant.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 You don't want to leave what you're doing to go out and get it. Have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it come to you. Groceries from across\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 town, you can get them\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 delivered straight to your door or anything in between.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 You are going to get access to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 member-only deals on hot wings to ice\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 cream and everything in between. Now\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 through July 24th, get the best\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 deal and exclusive items from your\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 30:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 favorite brands like Taco Bell, Popeyes,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and Ulta Beauty. Now that is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a range. Order on\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 DoorDash and Save Big during Summer of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Dash Pass. Sign up today. Dash\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Pass benefits apply to eligible\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 orders. Terms apply. Sweater\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 weather is over and sweaty\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 weather has begun. Bomba\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 socks are key to feeling light on your\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 feet this summer. Greasy dress socks will support\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your arches at your friend's weddings and compression\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 socks will help prevent achiness on your flight\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to Europe. I actually have Bomba's compression socks\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and they really make your legs feel like\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you're getting a hug all day. My favorite\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 thing about Bomba's, besides how comfy and cozy\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 their socks are, is that for every item\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you buy, Bomba's donates a clothing item to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 someone who needs it. In fact, Bomba's has\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 donated over 100 million clothing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 items to date, all thanks to your\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 purchases. So thank you, Bomba's,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for helping us take care of ourselves and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 helping us take care of others. Also,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 one thing that Abby knows is key to me is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 31:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that Bomba's makes returns easy. I need returns\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to be easy. If you don't\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 love your bombas, they have a hundred\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 percent happiness guarantee. That means hassle-free returns\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and exchanges. So, ready\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to get comfy and give back? Head over\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to bombas.com slash hard things\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and use code hard things for 20% off\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your first purchase. That's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 B-O-M-B-A-S dot com slash\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 hard things and use code hard things\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 at checkout. homes.com knows\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:26\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that when it comes to home shopping,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's never just about the house or\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 condo. It's about the home. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what makes a home is more than just\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the house or property. It's the location, it's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the neighborhood, it's so much more. If you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have kids, it's also schools, nearby\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 parks, and transportation options. That's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 why homes.com goes above and beyond\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to bring home shoppers the in-depth\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 information they need to find the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 right home. And when I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 say in-depth, I'm talking deep. Each\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 listing features comprehensive information about the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 32:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 neighborhood and complete with a video\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 guide. They also have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 details about local schools with state\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 rankings and student-to-teacher ratios. They even\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have an agent directory with the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 sales history of each agent. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 when it comes to finding a home, not just\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a house, this is everything you need\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to know all in one place. homes.com.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We've done your homework.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 What are some concrete ways every person\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 listening to this can plug into\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the reproductive justice movement?\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 One of the ways is to use\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your social media power. There's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so much misinformation and disinformation out\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 there. And again,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so many people feeling alone,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 right? But they're on social\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 media. And to the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 extent that we can each use\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the platform we have to say,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 here's the correct information, here's the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 33:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 incorrect information. when we hear it, like just to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do it, keep doing it. Even\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if you've done it before, keep doing it, to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 reinforce the point. Reinforce\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the point that there is help out there and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 let people know where there is help based on what\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you know to be helping your community or your state\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 or in another state. There\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is what we can do that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is about supporting the organizations that are supporting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the people who need help. For\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people who live in states that have practically\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 outright banned abortion, you know, 16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 states have laws now, 13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 of them, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 ban starts at fertilization, which is essentially\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 an outright ban. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 helping people figure out how they can get\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to and tap\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 into services that can help them\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if they're working two jobs and they've already got kids,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the majority of women who seek\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 abortions have children. Childcare\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is expensive. You gotta travel,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that's a bus ticket, a train ticket, a plane ticket,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 34:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that's expensive. You know,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 people are barely being able to pay rent. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 so supporting the organizations that are helping\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 folks who need to travel, supporting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the organizations that are providing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 legal assistance, it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is outrageous that not only do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 many of these states not\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 make an exception for rape or incest, the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 number of states that are criminalizing healthcare\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 providers, providing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for prison time for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a nurse or a doctor is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 crazy. If\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we were talking about this a few years ago,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we'd say this is just bananas, that's never gonna\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 happen. It has happened. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 supporting the organizations that are supporting folks who\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 might need legal services. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 then there's elections, because hey, elections\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 matter. Who\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your local prosecutor is matters,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 especially if you are in a state\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 35:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that is criminalized. health care\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 providers. Who\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your governor is matters for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 sure. Who your attorney general is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 matters. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 then who your local representatives are,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that matters because they're going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to be in particular if they work in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your state house as a legislator, they're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:18\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 going to be the ones either pushing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for greater protections or pushing back\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 against restrictions. That's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 why at the beginning I traveled to all the states.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Not all this, I haven't yet traveled to all the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 states, but a lot of states, blue\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and red states, to convene\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 state legislators to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 remind them that we need them and they're now going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to be on the front lines because this has moved\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 out of then the federal piece into\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the states. So be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 active in statewide organizations. Get\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 involved and let's all be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:49\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 joyful warriors on this too. My\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 sister was dying to ask you about being a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 joyful warrior. So the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 36:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 most joyful warrior, your mother,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 was a pioneering scientist. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you picked up a lot of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 your leadership principles from\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her. Yes, I did. And in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 her lab you learned that innovation\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is what can be unburdened\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 by what has been. Indeed.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And this moment is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 terrifying. And it's grueling. And talk\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 about elections matter. We're\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 years in and we're tired. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's terrifying, but it also can be seen as\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 a moment of a gift. Because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what got us here is not going\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to take us from here. We are doing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 something new or we are just standing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 by and letting them take whatever else\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 they're going to take next. So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what do you see as the gift of this? And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 what do you see as the innovation\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 going forward for what this movement can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:52\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 feel like and what can be? So\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I think moments like\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 37:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this remind us. us that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 when we decide, oh, I ain't having\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this. Okay,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 got it. I'm getting\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 out there. I'm going to go and talk\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to some friends. I'm going to do my social\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 media as necessary. I'm\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 going to join an\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 organization. And the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 effect of that activism\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is always a really wonderful thing,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I think, for an individual, which\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is to see the incredible power\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and strength that we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:32\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 each have to lift\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:34\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 up each other. It's\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 an incredible strength. One\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 can say, how\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 strong am I? Look at my muscles, right? And flex your\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 arm. But I think\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the true expression and measure of strength is not\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:47\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 based on who you beat down, it's based on\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 who you lift up. That's right.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And for a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 lot of people, they may have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 38:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 thought, I think we all did,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 some things were long settled, so I don't have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to worry about that. That's good. Those\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 folks 50 years ago who\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 got row decided they\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 did their thing and I have benefited and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:11\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we're all good. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:13\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 then the Dobbs decision came\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:15\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 down and everyone realized, ah,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 got it. Can't take anything for granted.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 That's right. Got to be\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 active and hold on to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 our gains, because otherwise they may\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 atrophy, deteriorate or be taken.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 And so the strength of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the moment is to remind us we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:36\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have to be vigilant. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that's okay, because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:41\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 it's just about acknowledging the fact\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:43\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and the truth of the matter,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 which is anything\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that is precious and important requires\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:51\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 our vigilance in\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 protecting it. Because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 39:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the duality of these things is that usually\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the thing that gives us great strength\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 can also be very fragile, meaning\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:04\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 if we don't protect it, it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 could go away. Before\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we end, I have to ask one thing. So when\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we get all of our Joyful Warriors\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 podcasters together, and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we do all of the things you've\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:21\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 suggested, and we get a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:23\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 democratically controlled Congress, and we get a\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Democrat into the presidency, do you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:28\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 have confidence that Democrats will go\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:30\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 to the mat to write bodily\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 autonomy into law once and for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 all? I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 absolutely do believe that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:39\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that will happen. And I think that, again,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 well, we can look at just the most recent\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 track record on marriage. Yes. Because\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we've been pushing for it for a long\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 time, but we thought, okay, we're good. I\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 performed some of the first same sex marriages in the\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 country. We thought we were good. And now\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 40:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 we realize, okay, the courts may have made\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 certain decisions, but we can't assume that will\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:02\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be forever. So Democrats\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:06\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and some Republicans came together and said,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:08\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 okay, let's pass this\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:10\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 bill that codifies, puts into law,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 the right to marry the person\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you love. Similarly,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 I think that everyone\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:19\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 has been shocked into being fully awake\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that we need to do\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:24\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 something in Congress, but sadly, we still don't have\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 all the numbers we need. And\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that's why elections in terms of\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 who your Congress member is and who your senator\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is really matters. Because the one thing that can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 end all of this in terms of these bad\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:38\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 laws is if we\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 at the federal level say\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 that it is a right that\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:45\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 cannot be taken away. Which\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 is why you are our\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 MVP. Go team.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:54\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 We are just so unbelievably honored for\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:56\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this time with you. We are relentlessly\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 41:58\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in your corner. Thank you. Thank\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:00\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you for this time. Thank you, Pod Squad.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Further directions to come. We\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 can do hard things. Thank you, Pod Squad.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Thank you, guys. This is really great. If\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:17\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 this podcast means something to you, it\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:20\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 would mean so much to us. If\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:22\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you'd be willing to take 30 seconds to\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:25\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 do these three things. First, can you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:27\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 please follow or subscribe to We Can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:29\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Do Hard Things? Following the pod helps\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:31\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 you because you'll never miss an episode\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:33\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and it helps us because you'll never\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:35\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 miss an episode. To do this, just\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:37\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 go to the We Can Do Hard\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:40\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Things show page on Apple Podcasts, Spotify,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:42\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Odyssey, or wherever you listen to podcasts,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:44\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and then just tap the plus sign\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:46\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 in the upper right hand corner or click\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:48\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 on follow. This is the most important thing\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:50\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 for the pod. While you're there, if you'd\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:53\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 be willing to give us a five star\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:55\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 rating and review and share an episode you\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:57\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 loved with a friend, we would be so\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 42:59\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 grateful. We appreciate you very\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 43:01\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 much. We Can\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 43:03\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Do Hard Things is created and\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 43:05\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 hosted by Glennon Doyle, Abby Wambach,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 43:07\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 and Amanda Doyle in partnership with\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 43:09\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Odyssey. Our executive producer is Jenna\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 43:12\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Wise Berman, and the show is\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 43:14\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 produced by Lauren Lograso, Alison Schott,\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\b \cf2 \cb3 43:16\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0 \cf2 \cb3 Dina Kleiner, and Bill Schultz.\cb1 \
+}
