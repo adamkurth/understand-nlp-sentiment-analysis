@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Script to standardize transcript filenames in 'podcast-transcripts/' directory and update 'master.csv'.
 
@@ -17,9 +16,11 @@ Key Features:
 
 import os
 import pandas as pd
+from pathlib import Path
 import shutil
 from collections import defaultdict
 from datetime import datetime
+import logging
 
 # --------------------------- Configuration ---------------------------
 
@@ -36,168 +37,197 @@ BACKUP_CSV_PATH = 'master_backup.csv'
 UNKNOWN_DATE_CSV_PATH = 'unknown_date.csv'
 
 # ------------------------- Script Execution -------------------------
+def setup_logger():
+    """Set up logging configuration"""
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler('transcript_processing.log'),
+            logging.StreamHandler()
+        ]
+    )
+    return logging.getLogger(__name__)
 
-def main():
-    # Check if master.csv exists
-    if not os.path.isfile(MASTER_CSV_PATH):
-        print(f"Error: '{MASTER_CSV_PATH}' does not exist.")
-        return
-
-    # Read the CSV file into a pandas DataFrame
-    df_master = pd.read_csv(MASTER_CSV_PATH)
-
-    # Ensure required columns exist
-    required_columns = [
-        'Transcript title (Adam transcribed through GitHub)',
-        'Podcast title',
-        'Candidate name',
-        'Date posted'
-    ]
-    for col in required_columns:
-        if col not in df_master.columns:
-            print(f"Error: Column '{col}' is missing from '{MASTER_CSV_PATH}'.")
-            return
-
-    # Backup the original master.csv
-    shutil.copy(MASTER_CSV_PATH, BACKUP_CSV_PATH)
-    print(f"Backup of '{MASTER_CSV_PATH}' created as '{BACKUP_CSV_PATH}'.")
-
-    # Create a copy of the DataFrame to avoid SettingWithCopyWarning
-    df_master = df_master.copy()
-
-    # Remove extra extensions from 'Transcript title' in master.csv
-    df_master['Transcript title (Adam transcribed through GitHub)'] = df_master['Transcript title (Adam transcribed through GitHub)'].apply(remove_extension)
-
-    # Remove extra extensions from 'Date posted' in master.csv
-    df_master['Date posted'] = df_master['Date posted'].apply(remove_extension)
-
-    # Build a mapping from old filenames to master.csv entries
-    master_file_map = {}
-    for idx, row in df_master.iterrows():
-        old_title = row['Transcript title (Adam transcribed through GitHub)']
-        if pd.isna(old_title) or not str(old_title).strip():
+def standardize_master_csv(df_master, logger):
+    """Standardize filenames in master.csv"""
+    # Create a copy to avoid warnings
+    df = df_master.copy()
+    
+    # Process each row
+    for idx, row in df.iterrows():
+        filename = row['Transcript title (Adam transcribed through GitHub)']
+        if pd.isna(filename) or not isinstance(filename, str):
             continue
-        master_file_map[old_title] = row
+            
+        # Get base name without extension
+        base_name = remove_extension(filename)
+        parts = base_name.split('_')
+        
+        if len(parts) >= 4:  # Ensure enough parts
+            # Change source to applepodcasts
+            parts[0] = 'applepodcasts'
+            
+            # Get clean values
+            candidate = clean_string(row['Candidate name'])
+            podcast = clean_string(row['Podcast title'])
+            date = clean_date(row['Date posted'])
+            
+            # Build new filename
+            new_name = f"applepodcasts_{candidate}_{podcast}_{date}"
+            
+            # Add part number if needed
+            if '_part' in filename:
+                part_num = filename.split('_part')[-1].split('.')[0]
+                new_name += f"_part{part_num}"
+            
+            new_name += ".txt"
+            
+            # Update DataFrame
+            df.at[idx, 'Transcript title (Adam transcribed through GitHub)'] = new_name
+            logger.info(f"Updated master.csv entry: {filename} -> {new_name}")
+    
+    return df
 
-    # Get a list of all files in the transcript directory
-    transcript_files = [f for f in os.listdir(TRANSCRIPTS_DIR) if os.path.isfile(os.path.join(TRANSCRIPTS_DIR, f))]
+def validate_file(file_path, required_columns):
+    """Validate CSV file and required columns"""
+    if not os.path.isfile(file_path):
+        raise FileNotFoundError(f"File not found: {file_path}")
+    
+    df = pd.read_csv(file_path)
+    missing_cols = [col for col in required_columns if col not in df.columns]
+    if missing_cols:
+        raise ValueError(f"Missing columns in {file_path}: {missing_cols}")
+    return df
 
-    # Remove extra extensions from filenames in transcript directory
-    for filename in transcript_files:
-        new_filename = remove_extension(filename)
-        if new_filename != filename:
-            os.rename(os.path.join(TRANSCRIPTS_DIR, filename), os.path.join(TRANSCRIPTS_DIR, new_filename))
-            print(f"Renamed '{filename}' to '{new_filename}'.")
-    # Update the transcript_files list
-    transcript_files = [f for f in os.listdir(TRANSCRIPTS_DIR) if os.path.isfile(os.path.join(TRANSCRIPTS_DIR, f))]
-
-    # Dictionary to keep track of part numbers for each candidate and podcast
+def process_transcripts(logger, df_master, transcript_files):
+    """Process transcript files and update master CSV"""
     part_counter = defaultdict(int)
-
-    # List to collect files with unknown or invalid dates
     unknown_date_files = []
+    
+    # Build mapping of existing files using Podcast title
+    master_file_map = {
+        row['Transcript title (Adam transcribed through GitHub)']: row
+        for _, row in df_master.iterrows()
+        if pd.notna(row['Transcript title (Adam transcribed through GitHub)'])
+    }
 
-    # Process each transcript file
     for filename in transcript_files:
+        if not filename.endswith('.txt'):
+            continue
+            
         file_path = os.path.join(TRANSCRIPTS_DIR, filename)
+        base_name = os.path.splitext(filename)[0]
 
-        # Initialize variables
-        source = get_source_from_filename(filename)
-        candidate_name = None
-        podcast_title = None
-        date_posted = None
+        # Always use applepodcasts as source
+        source = 'applepodcasts'
+        metadata = get_file_metadata(filename, master_file_map.get(filename))
 
-        # Check if the file is in master.csv
-        if filename in master_file_map:
-            # Get data from master.csv
-            row = master_file_map[filename]
-            candidate_name = row['Candidate name']
-            podcast_title = row['Podcast title']
-            date_posted = row['Date posted']
-        else:
-            # Try to extract data from the filename
-            source, candidate_name, _, _ = extract_info_from_filename(filename)
-            # Since we cannot reliably get the podcast title from the filename, set as 'unknown'
-            podcast_title = 'unknown'
-            # Date posted is unknown since it's not in master.csv
-            date_posted = 'unknown'
-
-        # If candidate_name is still None, skip this file
-        if not candidate_name:
-            print(f"Warning: Unable to extract candidate name from '{filename}'. Skipping.")
+        if not metadata['candidate_name']:
+            logger.warning(f"Unable to extract candidate name from '{filename}'. Skipping.")
             continue
 
-        # Clean the data
-        candidate_name_clean = clean_string(candidate_name).lower()
-        podcast_title_clean = clean_string(podcast_title).lower()
+        # Clean data
+        cleaned_data = clean_metadata(metadata)
 
-        # Use 'Date posted' from master.csv
-        if date_posted and date_posted != 'unknown':
-            date_posted_clean = clean_date(date_posted)
-            if date_posted_clean == 'unknowndate':
-                # Collect the file's details and skip renaming
+        # Process date - first try the date from metadata, then try extracting from filename
+        date_clean = None
+        
+        if metadata['date_posted'] and metadata['date_posted'] != 'unknown':
+            date_clean = clean_date(metadata['date_posted'])
+        
+        # If date is still unknown, try to extract from filename
+        if not date_clean or date_clean == 'unknowndate':
+            _, _, _, date_from_filename = extract_info_from_filename(filename)
+            if date_from_filename:
+                date_clean = date_from_filename
+            else:
                 unknown_date_files.append({
                     'Filename': filename,
-                    'Candidate name': candidate_name,
-                    'Podcast title': podcast_title,
-                    'Date posted': date_posted
+                    **metadata
                 })
-                print(f"Date posted is invalid for '{filename}'. Adding to 'unknown_date.csv'.")
+                logger.info(f"Unable to extract valid date from '{filename}'. Added to unknown_date.csv.")
                 continue
-        else:
-            # Collect the file's details and skip renaming
-            unknown_date_files.append({
-                'Filename': filename,
-                'Candidate name': candidate_name,
-                'Podcast title': podcast_title,
-                'Date posted': date_posted
-            })
-            print(f"Date posted is missing for '{filename}'. Adding to 'unknown_date.csv'.")
-            continue
 
-        # Replace the 'episode title' in the filename with the 'podcast_title_clean'
-        # Build the new filename
-        key = (candidate_name_clean, podcast_title_clean)
-        part_counter[key] += 1
-        part_number = part_counter[key]
+        # Generate new filename
+        new_filename = generate_filename(
+            source,
+            cleaned_data['candidate_name'],
+            cleaned_data['podcast_title'],
+            date_clean,
+            part_counter
+        )
 
-        new_filename = f"{source}_{candidate_name_clean}_{podcast_title_clean}_{date_posted_clean}"
-        # Add '_partX' if there are multiple instances
-        if part_counter[key] > 1:
-            new_filename += f"_part{part_number}"
-        new_filename += ".txt"
+        # Rename file
+        if new_filename != filename:
+            new_path = os.path.join(TRANSCRIPTS_DIR, new_filename)
+            os.rename(file_path, new_path)
+            logger.info(f"Renamed '{filename}' to '{new_filename}'")
 
-        # Rename the file
-        new_file_path = os.path.join(TRANSCRIPTS_DIR, new_filename)
-        os.rename(file_path, new_file_path)
-        print(f"Renamed '{filename}' to '{new_filename}'.")
+            # Update master CSV
+            if filename in master_file_map:
+                mask = df_master['Transcript title (Adam transcribed through GitHub)'] == filename
+                df_master.loc[mask, 'Transcript title (Adam transcribed through GitHub)'] = new_filename
+            else:
+                new_row = {
+                    'Transcript title (Adam transcribed through GitHub)': new_filename,
+                    **metadata
+                }
+                df_master = pd.concat([df_master, pd.DataFrame([new_row])], ignore_index=True)
+                logger.info(f"Added new entry to master.csv for '{new_filename}'")
 
-        # Update master.csv entry
-        if filename in master_file_map:
-            df_master.loc[df_master['Transcript title (Adam transcribed through GitHub)'] == filename, 'Transcript title (Adam transcribed through GitHub)'] = new_filename
-        else:
-            # Add a new row to master.csv
-            new_row = {
-                'Transcript title (Adam transcribed through GitHub)': new_filename,
-                'Podcast title': podcast_title,
-                'Candidate name': candidate_name,
-                'Date posted': date_posted,
-                # You can fill other columns as needed or leave them empty
-            }
-            df_master = pd.concat([df_master, pd.DataFrame([new_row])], ignore_index=True)
-            print(f"Added new entry to master.csv for '{new_filename}'.")
+    return df_master, unknown_date_files
 
-    # Save the updated DataFrame back to master.csv
-    df_master.to_csv(MASTER_CSV_PATH, index=False)
-    print(f"Updated '{MASTER_CSV_PATH}' with new transcript titles.")
+def get_file_metadata(filename, master_entry=None):
+    """Extract metadata from filename or master entry"""
+    if master_entry is not None and pd.notna(master_entry['Date posted']):
+        return {
+            'candidate_name': master_entry['Candidate name'],
+            'podcast_title': master_entry['Podcast title'],
+            'date_posted': master_entry['Date posted']
+        }
+    
+    # If no master entry or date is missing, try to extract from filename
+    source, candidate_name, podcast_title, date_from_filename = extract_info_from_filename(filename)
+    
+    if date_from_filename:
+        return {
+            'candidate_name': candidate_name,
+            'podcast_title': podcast_title,
+            'date_posted': date_from_filename
+        }
+    
+    # If we have a master entry but no date, use other info from master
+    if master_entry is not None:
+        return {
+            'candidate_name': master_entry['Candidate name'],
+            'podcast_title': master_entry['Podcast title'],
+            'date_posted': 'unknown'
+        }
+    
+    return {
+        'candidate_name': candidate_name,
+        'podcast_title': podcast_title,
+        'date_posted': 'unknown'
+    }
 
-    # Save the unknown_date_files to unknown_date.csv
-    if unknown_date_files:
-        df_unknown = pd.DataFrame(unknown_date_files)
-        df_unknown.to_csv(UNKNOWN_DATE_CSV_PATH, index=False)
-        print(f"Saved files with unknown or invalid dates to '{UNKNOWN_DATE_CSV_PATH}'.")
-    else:
-        print("No files with unknown or invalid dates.")
+def clean_metadata(metadata):
+    """Clean metadata values for filename use"""
+    return {
+        'candidate_name': clean_string(metadata['candidate_name']).lower(),
+        'podcast_title': clean_string(metadata['podcast_title']).lower(),
+        'date_posted': metadata['date_posted']
+    }
+
+def generate_filename(source, candidate, podcast, date, part_counter):
+    """Generate standardized filename"""
+    key = (candidate, podcast)
+    part_counter[key] += 1
+    
+    base_name = f"{source}_{candidate}_{podcast}_{date}"
+    if part_counter[key] > 1:
+        base_name += f"_part{part_counter[key]}"
+    return f"{base_name}.txt"
 
 # Helper function to remove extensions from filenames or strings
 def remove_extension(s):
@@ -205,11 +235,11 @@ def remove_extension(s):
         return os.path.splitext(s)[0]
     else:
         return s
+    
 # Helper function to extract the source from the filename
-def get_source_from_filename(filename):
-    # Assume the source is the first segment before the first underscore
-    filename = remove_extension(filename)
-    return filename.split('_')[0]
+def get_source_from_filename():
+    """Always return 'applepodcasts' as source"""
+    return 'applepodcasts' #static since we got all from applepodcasts
 
 # Helper function to clean strings for filenames
 def clean_string(s):
@@ -250,15 +280,89 @@ def clean_date(date_str):
 
 # Helper function to extract information from filename when not in master.csv
 def extract_info_from_filename(filename):
+    """Extract information from filename when not in master.csv"""
     filename = remove_extension(filename)
     parts = filename.split('_')
-    if len(parts) >= 3:
-        source = parts[0]
+    
+    if len(parts) >= 4:  # We expect at least 4 parts: source_name_podcast_date
+        source = get_source_from_filename()  # static
         candidate_name = parts[1]
-        # Since we cannot reliably get the podcast title or date from the filename, return None
-        return source, candidate_name, None, None
+        podcast_title = parts[2]
+        
+        # Extract date from the filename
+        date_part = parts[3]
+        # If there's a part number, remove it to get the date
+        if '_part' in date_part:
+            date_part = date_part.split('_part')[0]
+        
+        # Validate the date format (YYYYMMDD)
+        if len(date_part) == 8 and date_part.isdigit():
+            try:
+                # Verify it's a valid date
+                datetime.strptime(date_part, '%Y%m%d')
+                return source, candidate_name, podcast_title, date_part
+            except ValueError:
+                pass
+        
+        return source, candidate_name, podcast_title, None
     else:
         return None, None, None, None
+
+def main():
+    logger = setup_logger()
+    
+    try:
+        # Validate master CSV
+        required_columns = [
+            'Transcript title (Adam transcribed through GitHub)',
+            'Podcast title',
+            'Candidate name',
+            'Date posted'
+        ]
+        df_master = validate_file(MASTER_CSV_PATH, required_columns)
+        
+        # Create backup
+        shutil.copy(MASTER_CSV_PATH, BACKUP_CSV_PATH)
+        logger.info(f"Created backup: {BACKUP_CSV_PATH}")
+
+        # First standardize master.csv
+        df_master = standardize_master_csv(df_master, logger)
+        df_master.to_csv(MASTER_CSV_PATH, index=False)
+        logger.info("Updated master.csv with standardized filenames")
+
+        # Get transcript files
+        if not os.path.exists(TRANSCRIPTS_DIR):
+            os.makedirs(TRANSCRIPTS_DIR)
+            logger.info(f"Created directory: {TRANSCRIPTS_DIR}")
+
+        transcript_files = [
+            f for f in os.listdir(TRANSCRIPTS_DIR)
+            if os.path.isfile(os.path.join(TRANSCRIPTS_DIR, f))
+            and f.endswith('.txt')
+        ]
+
+        if not transcript_files:
+            logger.warning("No transcript files found.")
+            return
+
+        # Process files
+        df_master, unknown_date_files = process_transcripts(
+            logger, df_master, transcript_files
+        )
+
+        # Save final results
+        df_master.to_csv(MASTER_CSV_PATH, index=False)
+        logger.info(f"Updated {MASTER_CSV_PATH}")
+
+        if unknown_date_files:
+            pd.DataFrame(unknown_date_files).to_csv(UNKNOWN_DATE_CSV_PATH, index=False)
+            logger.info(f"Created {UNKNOWN_DATE_CSV_PATH} with {len(unknown_date_files)} files")
+        else:
+            logger.info("No files with unknown dates")
+
+    except Exception as e:
+        logger.error(f"Error: {str(e)}")
+        raise
 
 if __name__ == '__main__':
     main()
