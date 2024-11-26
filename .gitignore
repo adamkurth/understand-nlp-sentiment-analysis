@@ -1,4 +1,3 @@
-podcasts/**.mp3
-podcasts/downloads/*.mp3
+podcasts/**/*.mp3
 podcasts/**.txt
 podcasts/txt/**.txt
