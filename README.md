@@ -1,6 +1,148 @@
 # understand-nlp-sentiment-analysis
 
+Using NLP to analyze sentiment in podcast transcripts.
 
+## Using Ollama
+
+### Prerequisites
+- At least 8GB RAM for smaller models
+- 16GB+ RAM recommended for larger models
+- Internet connection for model downloads
+- Unix-like system (macOS, Linux) or WSL for Windows
+
+### Installation
+
+1. Download and install Ollama:
+```bash
+# macOS & Linux
+curl -fsSL https://ollama.com/install.sh | sh
+
+# Windows
+# Install WSL first, then run the above command in WSL
+```
+
+2. Verify installation:
+```bash
+ollama --version
+```
+
+### Model Selection
+
+Available models sorted by size and performance:
+- Mistral (7B) - Fast, efficient, good for most tasks
+- Llama2 (7B) - Balanced performance and size
+- Llama2 (13B) - Better reasoning, requires more RAM
+- CodeLlama (7B) - Optimized for code generation
+- Llama2 (70B) - Highest performance, requires significant resources
+
+### Getting Started
+
+1. Pull your chosen model:
+```bash
+# Pull specific model (example)
+ollama pull mistral   # 7B model
+ollama pull llama2    # 7B model
+ollama pull codellama # 7B model
+```
+
+2. Start interactive session:
+```bash
+# Basic usage
+ollama run mistral
+
+# With specific parameters
+ollama run mistral --temperature 0.7 --context-window 4096
+```
+
+### Common Commands
+
+1. Model Management:
+```bash
+# List installed models
+ollama list
+
+# Remove a model
+ollama rm modelname
+
+# Update a model
+ollama pull modelname
+```
+
+2. Running Options:
+```bash
+# Multi-line input mode
+ollama run mistral --multiline
+
+# Set specific parameters
+ollama run mistral --temperature 0.5 --top-p 0.9
+```
+
+3. Memory Management:
+```bash
+# For lower RAM systems
+ollama run mistral --ram-limit 4gb
+
+# For high performance
+ollama run mistral --ram-limit 16gb
+```
+
+### Best Practices
+
+1. Model Selection:
+- Start with Mistral for general use
+- Use CodeLlama for programming tasks
+- Consider larger models only if you have sufficient RAM
+
+2. Performance Tips:
+- Close unnecessary applications before running
+- Monitor system resources during use
+- Use appropriate RAM limits for your system
+
+3. Common Issues:
+- If model crashes, check available system memory
+- For slow responses, consider reducing context window
+- Use `--verbose` flag for troubleshooting
+
+### Example Usage
+
+1. Basic Chat:
+```bash
+ollama run mistral
+>>> Tell me about Python
+```
+
+2. Code Generation:
+```bash
+ollama run codellama
+>>> Write a Python function to sort a list
+```
+
+3. Scripting:
+```bash
+echo "Explain quantum computing" | ollama run mistral > quantum_explanation.txt
+```
+
+### Advanced Configuration
+
+Create a custom model configuration (Modelfile):
+```
+FROM mistral
+PARAMETER temperature 0.7
+PARAMETER top_p 0.9
+SYSTEM You are a helpful assistant focused on scientific explanations.
+```
+
+Build and run custom model:
+```bash
+ollama create mycustom -f Modelfile
+ollama run mycustom
+```
+
+### Resources
+
+- [Official Documentation](https://github.com/ollama/ollama)
+- [Model Library](https://ollama.com/library)
+- [Community Discord](https://discord.gg/ollama)
 
 ## Using `scripts/` Directory
 
