@@ -1,3 +1,9 @@
 podcasts/**/*.mp3
 podcasts/**.txt
 podcasts/txt/**.txt
+
+# secrets - never commit
+.env
+**/.env
+.env.local
+**/.env.local
